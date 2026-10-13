@@ -1,1 +1,5098 @@
-{"version":"20261010214900","updated":"2026-10-10T21:49:00.307772+00:00","people":[{"name":"Josh Douglas","role":"Founder","company":"CPTI","title":"Cofounder & COO","sector":"Climate & Energy","startup":"CPTI","hireKw":["electrical"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["energy","materials"],"why":"","stage":"Funded","hiring":"Test engineering and electrical engineering interns (Palo Alto), Electrical Engineer for energy harvesting, Founding Growth Lead","secs":["climate","hardware"],"cofKw":[]},{"name":"Yasmeen Alfaraj","role":"Founder","company":"NextSet Materials","title":"CEO","sector":"Climate & Energy","startup":"NextSet Materials","hireKw":["materials"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["electrical","energy","materials"],"why":"","stage":"Prototype","hiring":"Roles to be shared","secs":["climate"],"cofKw":[]},{"name":"Boya Qu-Qizilbash","role":"Founder","company":"SemiValley","title":"CEO","sector":"Climate & Energy","startup":"SemiValley","hireKw":["electrical","mechanical","thermal"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["energy","thermal"],"why":"","stage":"Funded","hiring":"Mechanical and electrical engineers, full time or internship","secs":["climate","hardware","ai"],"cofKw":[]},{"name":"Meiyin Liu","role":"Founder","company":"Nyquist Energy","title":"CTO","sector":"Climate & Energy","startup":"Nyquist Energy","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["energy","ml"],"why":"","stage":"Prototype","secs":["climate","ai"],"cofKw":[]},{"name":"Aaron Kaufman","role":"Founder","company":"Dyco Systems","title":"CEO, Founder","sector":"Climate & Energy","startup":"Dyco Systems","hireKw":["chemistry"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["energy"],"why":"","stage":"Early customer","hiring":"Roles to be shared","secs":["climate"],"cofKw":[]},{"name":"Ashley Bernstein","role":"Founder","company":"Rhoic","title":"Co-founder and COO","sector":"Climate & Energy","startup":"Rhoic","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["chemistry","energy","materials"],"why":"","stage":"Prototype","secs":["climate"],"cofKw":[]},{"name":"Michael McNeely","role":"Founder","company":"Herl Tech","title":"CEO","sector":"Climate & Energy","startup":"Herl Tech","hireKw":["chemistry","materials","nuclear"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["energy","nuclear"],"why":"","stage":"Ideation","hiring":"Radiochemistry and materials science interns or part time for equity, plus help with DARPA grants","secs":["climate"],"cofKw":[]},{"name":"Sandra Zalas","role":"Founder","company":"Baltic Jungle Lab","title":"Founder","sector":"Climate & Energy","startup":"Baltic Jungle Lab","hireKw":["ml"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["energy","ml"],"why":"","stage":"Prototype","hiring":"CTO or founding ML, computer vision or research engineer, plus hardware and environmental engineering collaborators","secs":["climate","hardware","ai"],"cofKw":[]},{"name":"Jessica Li","role":"Founder","company":"Raizon","title":"Founding Head of Growth","sector":"Climate & Energy","startup":"Raizon","hireKw":[],"seeksFunding":true,"cofounder":"Robotics, systems design, hardware integration, IoT, edge computing, sensor fusion","stages":[],"skills":["energy","robotics"],"why":"","stage":"Ideation","secs":["climate","hardware"],"cofKw":["robotics"]},{"name":"Alexander Nesiah","role":"Founder","company":"NC2","title":"Founder","sector":"Climate & Energy","startup":"NC2","hireKw":[],"seeksFunding":true,"cofounder":"Chemical engineering, genetic engineering, microbiology","stages":[],"skills":["bio","energy"],"why":"","stage":"Ideation","secs":["climate","hardware","bio"],"cofKw":["bio","chemistry"]},{"name":"Rohith","role":"Founder","company":"Saro Energy","title":"Founder & CEO","sector":"Climate & Energy","startup":"Saro Energy","hireKw":["business"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["energy","ml","software"],"why":"","stage":"Early customer","hiring":"Business Development and Enterprise Sales Intern or Associate","secs":["climate","hardware","ai"],"cofKw":[]},{"name":"Ali Tasdighi Far","role":"Founder","company":"Ai Linear","title":"Founder","sector":"Hardware & Physical AI","startup":"Ai Linear","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["bio","energy","ml","robotics"],"why":"","stage":"Prototype","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Peter Pang","role":"Founder","company":"Bimotal","title":"Founder","sector":"Hardware & Physical AI","startup":"Bimotal","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["ml","robotics"],"why":"","stage":"Early customer","secs":["hardware","ai"],"cofKw":[]},{"name":"Rajeev Kumar Nambiyar","role":"Founder","company":"NV Qubits","title":"Founder and CEO","sector":"Hardware & Physical AI","startup":"NV Qubits","hireKw":[],"seeksFunding":true,"cofounder":"Diamond fabrication engineer (MPCVD) for quantum sensing","stages":[],"skills":["ml"],"why":"","stage":"Prototype","secs":["hardware","ai"],"cofKw":["materials"]},{"name":"Kashyap Khaitan","role":"Founder","company":"Assemble Robotics","title":"Founder","sector":"Hardware & Physical AI","startup":"Assemble Robotics","hireKw":["electrical","ml","robotics","software"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["ml","robotics"],"why":"","stage":"Early customer","hiring":"Roles to be shared","secs":["hardware","ai"],"cofKw":[]},{"name":"Murat Isik","role":"Founder","company":"Noah Labs","title":"CEO","sector":"Hardware & Physical AI","startup":"Noah Labs","hireKw":["business","ml"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["ml","software"],"why":"","stage":"Funded","hiring":"LLM Research Engineer, GovTech Business Development Associate","secs":["hardware","ai"],"cofKw":[]},{"name":"Ilan Bruski","role":"Founder","company":"Fuse Dynamics","title":"Founder / Student","sector":"Hardware & Physical AI","startup":"Fuse Dynamics","hireKw":["ml","thermal"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["ml"],"why":"","stage":"Prototype","hiring":"CFD and ML founding engineer, after funding","secs":["hardware","ai"],"cofKw":[]},{"name":"Nathan Paumier","role":"Founder","company":"Solio Bio","title":"Co-Founder & CEO","sector":"Bio & Neuro","startup":"Solio Bio","hireKw":["bio","business","chemistry"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["bio"],"why":"","stage":"Prototype","hiring":"Analytical chemist, strain engineer, downstream purification, marketing or community (full time from early 2027, interns summer 2027)","secs":["climate","bio"],"cofKw":[]},{"name":"Ishika Agrawal","role":"Founder","company":"Nocturnal Neuro","title":"Founder","sector":"Bio & Neuro","startup":"Nocturnal Neuro","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["bio","ml"],"why":"","stage":"Early customer","secs":["bio","ai"],"cofKw":[]},{"name":"Marta Gajowa","role":"Founder","company":"Neuraffica","title":"Ceo","sector":"Bio & Neuro","startup":"Neuraffica","hireKw":["bio","ml"],"seeksFunding":true,"cofounder":"","stages":[],"skills":["bio","ml"],"why":"","stage":"Ideation","hiring":"Computational Neuroscientist, ML Training Engineer (interns or part time)","secs":["hardware","bio","ai"],"cofKw":[]},{"name":"Paul Donohoue","role":"Founder","company":"Umbra Bio","title":"CEO","sector":"Bio & Neuro","startup":"Umbra Bio","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["bio"],"why":"","stage":"Early customer","secs":["bio"],"cofKw":[]},{"name":"Sam Kang","role":"Hiring","company":"Eight Sleep","title":"Chief Product Officer","sector":"Hiring only","startup":"Eight Sleep","hireKw":["electrical","mechanical","thermal"],"seeksFunding":false,"cofounder":"","stages":[],"skills":["robotics"],"why":"","stage":"Funded","hiring":"Senior or Staff Mechanical Engineer, Senior Electrical Engineer, Thermal Engineer (full time)","secs":["hardware","bio"],"cofKw":[]},{"name":"Sophia Mejjati","role":"Hiring","company":"Hadamard","title":"CEO","sector":"Hiring only","startup":"Hadamard","hireKw":["ml"],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","stage":"Funded","hiring":"Roles to be shared","secs":["hardware","bio"],"cofKw":[]},{"name":"August Fern","role":"Investor","company":"Adapt [us] Capital","title":"General Partner","sector":"Climate & Energy","schedule":["Baltic Jungle Lab","Raizon","Saro Energy","Herl Tech","NC2"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer"],"skills":[],"why":"Support the Berkeley ecosystem","check":"$500k to $1M","secs":["climate"],"cofKw":[]},{"name":"Carly Anderson","role":"Investor","company":"Timescale Ventures","title":"Co-Founder & Managing Partner","sector":"Climate & Energy","schedule":["Rhoic","NextSet Materials","CPTI","Dyco Systems","Saro Energy"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer"],"skills":[],"why":"Meet founders and prospective founders, and be helpful","check":"$500k to $2M","secs":["climate"],"cofKw":[]},{"name":"Emilie Mazzacurati","role":"Investor","company":"Tailwind Futures","title":"Founding Partner","sector":"Climate & Energy","schedule":["Saro Energy","Baltic Jungle Lab","Raizon","NC2","Herl Tech"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer","Funded"],"skills":[],"why":"Sourcing potential investments","check":"$250k to $500k","secs":["climate"],"cofKw":[]},{"name":"Erik Knall","role":"Investor","company":"Azolla Ventures","title":"Investment Associate","sector":"Climate & Energy","schedule":["NC2","Herl Tech","Baltic Jungle Lab","Solio Bio","Raizon"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer","Funded"],"skills":[],"why":"Sourcing and engaging with the climate tech and deep tech community","check":"Up to $5M, typical $2M","secs":["climate"],"cofKw":[]},{"name":"Erin Kirton","role":"Investor","company":"VoLo Earth Ventures","title":"Senior Associate","sector":"Climate & Energy","schedule":["CPTI","Nyquist Energy","Rhoic","SemiValley","NextSet Materials"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer","Funded"],"skills":[],"why":"Meet deep tech founders, fellow investors and industry players","check":"$500k to $5M","secs":["climate"],"cofKw":[]},{"name":"Julia Yan","role":"Investor","company":"Prelude Ventures","title":"Senior Associate","sector":"Climate & Energy","schedule":["Nyquist Energy","Dyco Systems","NextSet Materials","CPTI","SemiValley"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer","Funded"],"skills":[],"why":"Meet early climate founders who want to build relationships with climate investors before they raise","check":"$3M to $10M","secs":["climate"],"cofKw":[]},{"name":"Nare Janvelyan","role":"Investor","company":"Voyager Ventures","title":"Principal","sector":"Climate & Energy","schedule":["NextSet Materials","CPTI","SemiValley","Nyquist Energy","Rhoic"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer","Funded"],"skills":[],"why":"Meet founders and PIs","check":"$500k to $10M","secs":["climate"],"cofKw":[]},{"name":"Hemang Kapasi","role":"Investor","company":"xcel MD","title":"MD","sector":"Bio & Neuro","schedule":["Umbra Bio","Solio Bio","Neuraffica","Baltic Jungle Lab","Nocturnal Neuro"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Prototype","Early customer","Funded"],"skills":[],"why":"Partner with deep tech founders and GPs","check":"Depends","secs":["bio"],"cofKw":[]},{"name":"Lauren Tannhauser","role":"Investor","company":"PsyMed / Kaleida / Jumpspace","title":"CoS","sector":"Bio & Neuro","schedule":["Solio Bio","Neuraffica","Nocturnal Neuro","Umbra Bio","Baltic Jungle Lab"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer","Funded"],"skills":[],"why":"Find great founders, especially in neurotech and health","check":"$25k to $5M","secs":["bio"],"cofKw":[]},{"name":"Mihir Pershad","role":"Investor","company":"Ayuh Ventures","title":"Partner","sector":"Bio & Neuro","schedule":["Nocturnal Neuro","Umbra Bio","NC2","Neuraffica","Solio Bio"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer"],"skills":[],"why":"See emerging tech and founders early","check":"$500k to $1M","secs":["bio"],"cofKw":[]},{"name":"Aaron Pickard","role":"Investor","company":"MFV Partners","title":"Investor","sector":"Generalist","schedule":["Ai Linear","Saro Energy","Dyco Systems","Baltic Jungle Lab","Bimotal"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Prototype","Early customer","Funded"],"skills":[],"why":"Sourcing and relationship building","check":"$1M to $3M","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Cara Hu","role":"Investor","company":"Builders VC","title":"Investor","sector":"Generalist","schedule":["NextSet Materials","SemiValley","CPTI","Rhoic","Nyquist Energy"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Prototype","Early customer","Funded"],"skills":[],"why":"Meet exceptional founders and support the Berkeley ecosystem","check":"Seed under $10M","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Choong Sohn","role":"Investor","company":"Angulate Ventures","title":"Managing Partner","sector":"Generalist","schedule":["SemiValley","Rhoic","Nyquist Energy","NextSet Materials","CPTI"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer"],"skills":[],"why":"Connect with interesting startups","check":"$100k to $500k","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Dyllan Liu","role":"Investor","company":"Vectro Ventures","title":"Founding Partner","sector":"Generalist","schedule":["Dyco Systems","NC2","Herl Tech","Raizon","Saro Energy"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer"],"skills":[],"why":"","check":"$50k to $500k","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Ibrahim Noon","role":"Investor","company":"Forerunner Ventures","title":"Investor","sector":"Generalist","schedule":["Saro Energy","Baltic Jungle Lab","Ai Linear","Bimotal","Dyco Systems"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Prototype","Early customer","Funded"],"skills":[],"why":"Explore Berkeley deep tech startups","check":"$1M to $20M","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"John Ahrens","role":"Investor","company":"Overlap Holdings","title":"Senior Associate","sector":"Generalist","schedule":["Raizon","NC2","Herl Tech","Saro Energy","Baltic Jungle Lab"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer","Funded"],"skills":[],"why":"Build relationships with engineers and scientists and help them toward a commercial path","check":"$750k","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Kristen Wang","role":"Investor","company":"EuReality Capital","title":"","sector":"Generalist","schedule":["Herl Tech","Ai Linear","Baltic Jungle Lab","Raizon","NC2"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype"],"skills":[],"why":"Meet future founders","check":"$200k to $500k","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Mary Lee","role":"Investor","company":"Manifest Ventures","title":"Investor & Head of Community","sector":"Generalist","schedule":["CPTI","Rhoic","NextSet Materials","SemiValley","Nyquist Energy"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer"],"skills":[],"why":"Meet and support founders in the Berkeley ecosystem","check":"$500k to $5M","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Michal de Beer","role":"Investor","company":"Dolby Family Ventures","title":"Analyst","sector":"Generalist","schedule":["Nyquist Energy","SemiValley","Rhoic","CPTI","NextSet Materials"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer"],"skills":[],"why":"Berkeley grad, wants to see what is happening in the Berkeley startup ecosystem","check":"$500k to $3M","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Mike Mettler","role":"Investor","company":"Roadrunner Capital","title":"Partner","sector":"Generalist","schedule":["Rhoic","CPTI","Nyquist Energy","NextSet Materials","SemiValley"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer"],"skills":[],"why":"Help important science turn into very big companies","check":"Up to $1M","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Rie Guerreschi","role":"Investor","company":"Mitsui Chemicals America","title":"Business Development Manager","sector":"Generalist","schedule":["SemiValley","Dyco Systems","Solio Bio","Nyquist Energy","Rhoic"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Prototype","Early customer","Funded"],"skills":[],"why":"Tech scouting with UC Berkeley startups","check":"$1M to $2M","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Steven Horowitz","role":"Investor","company":"EWOR","title":"Principal","sector":"Generalist","schedule":["Herl Tech","Raizon","Saro Energy","NC2","Neuraffica"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":["Ideation","Prototype","Early customer"],"skills":[],"why":"Meet talented deep tech founders","check":"$300k to $600k","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Genevieve Hummer","role":"Investor","company":"Piva Capital","title":"Investor","sector":"Climate & Energy","schedule":["NC2","Saro Energy","Raizon","Dyco Systems","Herl Tech"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate"],"cofKw":[]},{"name":"Cami Orozco Gil","role":"Investor","company":"Ubiquity","title":"Investor","sector":"Hardware & Physical AI","schedule":["Assemble Robotics","Noah Labs","Bimotal","NV Qubits","Ai Linear"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["hardware"],"cofKw":[]},{"name":"Andrea Li","role":"Investor","company":"Li Family Office","title":"Investment Officer","sector":"Generalist","schedule":["Nocturnal Neuro","Solio Bio","Neuraffica","Fuse Dynamics","Noah Labs"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Ani Vadavatha","role":"Investor","company":"AB Plus Ventures","title":"Founder & Managing Partner","sector":"Generalist","schedule":["Fuse Dynamics","NV Qubits","Assemble Robotics","Noah Labs","Umbra Bio"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Asher Siddiqui","role":"Investor","company":"Song United","title":"Managing Director","sector":"Generalist","schedule":["Fuse Dynamics","NextSet Materials","Umbra Bio","Neuraffica","CPTI"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Bivek Adhikari","role":"Investor","company":"AI Capital","title":"Investor","sector":"Generalist","schedule":["Neuraffica","Nocturnal Neuro","Umbra Bio","Rhoic","Solio Bio"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Chida Khatua","role":"Investor","company":"TempoDyn Ventures","title":"CEO","sector":"Generalist","schedule":["Umbra Bio","Nyquist Energy","SemiValley","Herl Tech","Fuse Dynamics"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Garrett Temple","role":"Investor","company":"Year Zero Ventures Group","title":"Founder + GP","sector":"Generalist","schedule":["Dyco Systems","Ai Linear","Bimotal","NV Qubits","Umbra Bio"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Gordon Shi","role":"Investor","company":"Thusly Ventures","title":"General Partner","sector":"Generalist","schedule":["Baltic Jungle Lab","Umbra Bio","NC2","Saro Energy","Raizon"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Hye Jin Park","role":"Investor","company":"UC Berkeley Haas","title":"MBA Student/Investor","sector":"Generalist","schedule":["Noah Labs","Neuraffica","NV Qubits","Assemble Robotics","Bimotal"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Ishtiaque Mohammad","role":"Investor","company":"Astra Ventures","title":"General Partner","sector":"Generalist","schedule":["Assemble Robotics","Nocturnal Neuro","Noah Labs","Solio Bio","Fuse Dynamics"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Jerry Bellman","role":"Investor","company":"California Innovation Fund","title":"Vetting Director","sector":"Generalist","schedule":["Bimotal","Assemble Robotics","NV Qubits","Ai Linear","FLOAT"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Lisa Wolff","role":"Investor","company":"Macroscopic Ventures","title":"Manager","sector":"Generalist","schedule":["Neuraffica","Fuse Dynamics","Solio Bio","Noah Labs","Nocturnal Neuro"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"MJ","role":"Investor","company":"Korea Investment Partners","title":"Asosciate","sector":"Generalist","schedule":["Bimotal","NV Qubits","Fuse Dynamics","Ai Linear","Dyco Systems"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Madison Zhan","role":"Investor","company":"AFORE Capital & Entrepreneurs First","title":"Scout  & Investment Fellow","sector":"Generalist","schedule":["NV Qubits","Bimotal","Ai Linear","Fuse Dynamics","Assemble Robotics"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Maria Rutkowska","role":"Investor","company":"Collide Capital","title":"VC Scout","sector":"Generalist","schedule":["Ai Linear","Noah Labs","Assemble Robotics","Bimotal","NV Qubits"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Tae Kyu Lee","role":"Investor","company":"Blissvine Ventures / El Fuego","title":"Venture partner / Co-founder","sector":"Generalist","schedule":["Solio Bio","Fuse Dynamics","Noah Labs","Nocturnal Neuro","Neuraffica"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Uday Sandhu","role":"Investor","company":"AIC","title":"General Partner","sector":"Generalist","schedule":["NV Qubits","Assemble Robotics","Fuse Dynamics","Umbra Bio","Noah Labs"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Usua Amanam","role":"Investor","company":"Dolby Family Ventures","title":"Senior Associate, VC","sector":"Generalist","schedule":["Raizon","Herl Tech","Dyco Systems","Nocturnal Neuro","Ai Linear"],"hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Noah Park","role":"Student","company":"UC Berkeley Haas","title":"MBA","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["business"],"why":"","program":"MBA","interests":"AI, robotics","wants":"Business strategy","secs":["hardware","ai"],"cofKw":[]},{"name":"Ricardo Suber","role":"Founder","company":"CSMira","title":"Founder","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Alisher Begmatov, MBA","role":"Founder","company":"Microsoft","title":"Software Engineer","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["software"],"why":"","secs":["ai"],"cofKw":[]},{"name":"Omar Najjar","role":"Student","company":"None","title":"Master engineering","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["mechanical"],"why":"","program":"MS Mechanical Engineering","interests":"hardware","wants":"Technical development","secs":["hardware"],"cofKw":[]},{"name":"Bryce Gilleland","role":"Investor","company":"Cal Innovation Fund","title":"General Partner","sector":"","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":["climate","hardware","bio","ai"],"cofKw":[]},{"name":"Guanchen Liu","role":"Student","company":"UC Berkeley","title":"Student","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["ml","robotics"],"why":"","program":"MEng Systems Engineering","interests":"AI, robotics","wants":"Technical development","secs":["hardware","ai"],"cofKw":[]},{"name":"Andy Edwards","role":"Founder","company":"Organos Inc.","title":"Chief Technology Officer","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Dylan","role":"Founder","company":"Green Robin Labs","title":"Technical Co-founder","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"jiaqi Xu","role":"Student","company":"UCB","title":"student","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Jose","role":"Student","company":"UC Berkeley","title":"Student","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Matyáš Prokopius","role":"Founder","company":"Surg","title":"Co-founder","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Simon Shu","role":"Founder","company":"Restart","title":"Founder","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Danny Bo-Yen Chang","role":"Operator","company":"Heartflow","title":"Medical ML Software Engineer","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["bio","ml","software"],"why":"","secs":["bio","ai"],"cofKw":[]},{"name":"Anika","role":"Operator","company":"Xory","title":"Member of Product Engineering Staff","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Maguire","role":"Founder","company":"Student","title":"Founder","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Aashonee","role":"Student","company":"Smartjoules","title":"Product Development intern","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["business","chemistry","energy","ml","thermal"],"why":"","program":"MEng Systems Engineering","interests":"AI, clean energy, robotics, autonomous systems","wants":"Business strategy","secs":["climate","hardware","ai"],"cofKw":[]},{"name":"Alicia Zeng","role":"Founder","company":"Stealth-mode AI hardware startup on micro- and nanoscale imaging","title":"Co-founder","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["ml"],"why":"","secs":["hardware","ai"],"cofKw":[]},{"name":"Sayf Aldean","role":"Student","company":"Haas UC Berkeley","title":"EMBA 2028","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["business"],"why":"","secs":[],"cofKw":[]},{"name":"Avah Banerjee","role":"Founder","company":"semiqlassical Inc.","title":"Co-founder & CEO (ex-faculty)","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Mahinga Singh","role":"Founder","company":"Grave Angels","title":"Founder & CTO","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Zach Zhong","role":"Operator","company":"Bubble Lab","title":"Software Engineer","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["software"],"why":"","secs":["ai"],"cofKw":[]},{"name":"Clayton Forsee","role":"Student","company":"TikTok (Haas MBA/MCS currently)","title":"Tech Lead","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["business","software"],"why":"","program":"MBA","interests":"cleantech, clean energy, resources","wants":"Business strategy","secs":["climate","ai"],"cofKw":[]},{"name":"Sofiia","role":"Student","company":"Student","title":"Student","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Martin Gonzalez","role":"Founder","company":"sophelio.io","title":"Senior Software Engineer","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["software"],"why":"","secs":["ai"],"cofKw":[]},{"name":"Omer Salomon","role":"Founder","company":"Truth Robotics","title":"CEO","sector":"","hireKw":[],"seeksFunding":false,"cofounder":"Technical co-founder","stages":[],"skills":["ml","robotics"],"why":"","stage":"Prototype","secs":["hardware","ai"],"cofKw":[]},{"name":"Gourab Paul","role":"Student","company":"Student","title":"cyber-security analyst","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["ml"],"why":"","program":"Computer science","interests":"AI, quantum, robotics","wants":"Technical development","secs":["hardware","ai"],"cofKw":[]},{"name":"Sovie Prasad Shekhar","role":"Student","company":"UC Berkeley","title":"MEng Student","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Mainak Ghosh","role":"Founder","company":"Ironlight","title":"Head of Product","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Rithu Pattali","role":"Student","company":"N/A","title":"PhD student","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Mia Choi","role":"Student","company":"NA","title":"Master student","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["bio","business"],"why":"","program":"Master of Translational Medicine","interests":"biotech, robotics","wants":"Business strategy","secs":["hardware","bio"],"cofKw":[]},{"name":"Fabiano","role":"Student","company":"USF","title":"Student and researcher energy field","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["energy"],"why":"","secs":["climate"],"cofKw":[]},{"name":"Nazli Ucar","role":"Academia","company":"Northeastern University","title":"Researcher","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Juliet C","role":"Founder","company":"FluidFly","title":"Founder","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Yayun","role":"Operator","company":"UC Berkeley Law","title":"LLM","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["ml"],"why":"","secs":["ai"],"cofKw":[]},{"name":"Karim Karouta","role":"Founder","company":"BLEM","title":"Innovation Fellow","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["chemistry"],"why":"","secs":["climate","bio"],"cofKw":[]},{"name":"Victoria Orindas","role":"Founder","company":"UC Berkeley School of Law","title":"Student","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Theodore George Nickolov","role":"Student","company":"Journeying Together","title":"Web Developer","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Jay Ward","role":"Operator","company":"Let Point Partners","title":"Partner","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Alex Nesiah","role":"Founder","company":"nMECH Robotics","title":"Founder","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["robotics"],"why":"","secs":["hardware"],"cofKw":[]},{"name":"Yizi Mao","role":"Academia","company":"UC Berkeley","title":"Postdoc","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Sofia Mendez Roca","role":"Founder","company":"Pyrogel","title":"CEO","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Ko Takahashi","role":"Operator","company":"RESONAC AMERICA, Inc","title":"Chief Assistant Manager | Senior Researcher |","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Charlotte Boedec","role":"Founder","company":"ALVEA","title":"co-founder & CEO","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Tanisha Rungta","role":"Student","company":"Student at Berkeley","title":"Mater of engineering","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":["bio"],"why":"","program":"MEng","interests":"Biotech","wants":"Technical development","secs":["hardware","bio"],"cofKw":[]},{"name":"Jp G","role":"Operator","company":"SVB, a division of First Citizens Bank","title":"VP, SVB Startup Banking","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Nosh Robotics","role":"Founder","company":"Nosh Robotics Inc","title":"Cofounder and Chief Executive Officer","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":["robotics"],"why":"","secs":["hardware"],"cofKw":[]},{"name":"Victor Long","role":"Founder","company":"Reasonometry","title":"Founder","sector":"","hireKw":[],"seeksFunding":true,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Jesse Kindra","role":"Academia","company":"Lawrence Berkeley National Laboratory","title":"CTTO","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Shanshan Li","role":"Academia","company":"LBNL","title":"Commercialization Manager","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Albert","role":"Student","company":"UC Berkeley","title":"Student","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]},{"name":"Jeremy Alberga","role":"Academia","company":"UC Berkeley Bakar Labs","title":"Chief Operating Officer","hireKw":[],"seeksFunding":false,"cofounder":"","stages":[],"skills":[],"why":"","secs":[],"cofKw":[]}],"startups":[{"table":1,"name":"CPTI","founder":"Josh Douglas","sector":"Climate & Energy","stage":"Funded","web":"https://cpti.co","blurb":"Perovskite solar modules, built in Palo Alto.","hiring":"Test engineering and electrical engineering interns (Palo Alto), Electrical Engineer for energy harvesting, Founding Growth Lead","schedule":[[{"name":"Erin Kirton","firm":"VoLo Earth Ventures"},{"name":"Mary Lee","firm":"Manifest Ventures"}],[{"name":"Nare Janvelyan","firm":"Voyager Ventures"},{"name":"Mike Mettler","firm":"Roadrunner Capital"}],[{"name":"Carly Anderson","firm":"Timescale Ventures"},{"name":"Cara Hu","firm":"Builders VC"}],[{"name":"Julia Yan","firm":"Prelude Ventures"},{"name":"Michal de Beer","firm":"Dolby Family Ventures"}],[{"name":"Choong Sohn","firm":"Angulate Ventures"},{"name":"Asher Siddiqui","firm":"Song United"}]],"hiringTable":"H3"},{"table":2,"name":"NextSet Materials","founder":"Yasmeen Alfaraj","sector":"Climate & Energy","stage":"Prototype","web":"https://www.nextset.net","blurb":"Advanced materials and manufacturing for electronics, including electronic materials fabrication and polymers.","hiring":"Roles to be shared","schedule":[[{"name":"Nare Janvelyan","firm":"Voyager Ventures"},{"name":"Cara Hu","firm":"Builders VC"}],[{"name":"Carly Anderson","firm":"Timescale Ventures"},{"name":"Asher Siddiqui","firm":"Song United"}],[{"name":"Julia Yan","firm":"Prelude Ventures"},{"name":"Mary Lee","firm":"Manifest Ventures"}],[{"name":"Choong Sohn","firm":"Angulate Ventures"},{"name":"Mike Mettler","firm":"Roadrunner Capital"}],[{"name":"Erin Kirton","firm":"VoLo Earth Ventures"},{"name":"Michal de Beer","firm":"Dolby Family Ventures"}]],"hiringTable":""},{"table":3,"name":"SemiValley","founder":"Boya Qu-Qizilbash","sector":"Climate & Energy","stage":"Funded","web":"https://semivalley.co","blurb":"Two-phase jet-to-chip liquid cooling for data centers.","hiring":"Mechanical and electrical engineers, full time or internship","schedule":[[{"name":"Choong Sohn","firm":"Angulate Ventures"},{"name":"Rie Guerreschi","firm":"Mitsui Chemicals America"}],[{"name":"Cara Hu","firm":"Builders VC"},{"name":"Michal de Beer","firm":"Dolby Family Ventures"}],[{"name":"Nare Janvelyan","firm":"Voyager Ventures"},{"name":"Chida Khatua","firm":"TempoDyn Ventures"}],[{"name":"Erin Kirton","firm":"VoLo Earth Ventures"},{"name":"Mary Lee","firm":"Manifest Ventures"}],[{"name":"Julia Yan","firm":"Prelude Ventures"},{"name":"Mike Mettler","firm":"Roadrunner Capital"}]],"hiringTable":"H2"},{"table":4,"name":"Nyquist Energy","founder":"Meiyin Liu","sector":"Climate & Energy","stage":"Prototype","web":"https://nyquistenergy.com","blurb":"Energy and grid infrastructure, building power systems for AI data centers.","hiring":"","schedule":[[{"name":"Julia Yan","firm":"Prelude Ventures"},{"name":"Michal de Beer","firm":"Dolby Family Ventures"}],[{"name":"Erin Kirton","firm":"VoLo Earth Ventures"},{"name":"Chida Khatua","firm":"TempoDyn Ventures"}],[{"name":"Choong Sohn","firm":"Angulate Ventures"},{"name":"Mike Mettler","firm":"Roadrunner Capital"}],[{"name":"Nare Janvelyan","firm":"Voyager Ventures"},{"name":"Rie Guerreschi","firm":"Mitsui Chemicals America"}],[{"name":"Cara Hu","firm":"Builders VC"},{"name":"Mary Lee","firm":"Manifest Ventures"}]],"hiringTable":""},{"table":5,"name":"Dyco Systems","founder":"Aaron Kaufman","sector":"Climate & Energy","stage":"Early customer","web":"https://dycosystems.com","blurb":"Critical minerals and resource recovery.","hiring":"Roles to be shared","schedule":[[{"name":"Dyllan Liu","firm":"Vectro Ventures"},{"name":"Garrett Temple","firm":"Year Zero Ventures Group"}],[{"name":"Julia Yan","firm":"Prelude Ventures"},{"name":"Rie Guerreschi","firm":"Mitsui Chemicals America"}],[{"name":"Aaron Pickard","firm":"MFV Partners"},{"name":"Usua Amanam","firm":"Dolby Family Ventures"}],[{"name":"Carly Anderson","firm":"Timescale Ventures"},{"name":"Genevieve Hummer","firm":"Piva Capital"}],[{"name":"Ibrahim Noon","firm":"Forerunner Ventures"},{"name":"MJ","firm":"Korea Investment Partners"}]],"hiringTable":""},{"table":6,"name":"Rhoic","founder":"Ashley Bernstein","sector":"Climate & Energy","stage":"Prototype","web":"https://www.rhoic.co","blurb":"An electric field chemical reactor for industrial decarbonization and advanced materials.","hiring":"","schedule":[[{"name":"Carly Anderson","firm":"Timescale Ventures"},{"name":"Mike Mettler","firm":"Roadrunner Capital"}],[{"name":"Choong Sohn","firm":"Angulate Ventures"},{"name":"Mary Lee","firm":"Manifest Ventures"}],[{"name":"Erin Kirton","firm":"VoLo Earth Ventures"},{"name":"Michal de Beer","firm":"Dolby Family Ventures"}],[{"name":"Cara Hu","firm":"Builders VC"},{"name":"Bivek Adhikari","firm":"AI Capital"}],[{"name":"Nare Janvelyan","firm":"Voyager Ventures"},{"name":"Rie Guerreschi","firm":"Mitsui Chemicals America"}]],"hiringTable":""},{"table":7,"name":"Herl Tech","founder":"Michael McNeely","sector":"Climate & Energy","stage":"Ideation","web":"https://herl.tech","blurb":"Nuclear hydrogen.","hiring":"Radiochemistry and materials science interns or part time for equity, plus help with DARPA grants","schedule":[[{"name":"Kristen Wang","firm":"EuReality Capital"},{"name":"Steven Horowitz","firm":"EWOR"}],[{"name":"Erik Knall","firm":"Azolla Ventures"},{"name":"Usua Amanam","firm":"Dolby Family Ventures"}],[{"name":"Dyllan Liu","firm":"Vectro Ventures"},{"name":"John Ahrens","firm":"Overlap Holdings"}],[{"name":"August Fern","firm":"Adapt [us] Capital"},{"name":"Chida Khatua","firm":"TempoDyn Ventures"}],[{"name":"Emilie Mazzacurati","firm":"Tailwind Futures"},{"name":"Genevieve Hummer","firm":"Piva Capital"}]],"hiringTable":"H4"},{"table":8,"name":"Baltic Jungle Lab","founder":"Sandra Zalas","sector":"Climate & Energy","stage":"Prototype","web":"","blurb":"Optical and microfluidic sensing with computer vision for wastewater. Advised by Prof. Manu Prakash's lab at Stanford, and moving toward industrial pilots.","hiring":"CTO or founding ML, computer vision or research engineer, plus hardware and environmental engineering collaborators","schedule":[[{"name":"August Fern","firm":"Adapt [us] Capital"},{"name":"Gordon Shi","firm":"Thusly Ventures"}],[{"name":"Emilie Mazzacurati","firm":"Tailwind Futures"},{"name":"Ibrahim Noon","firm":"Forerunner Ventures"}],[{"name":"Erik Knall","firm":"Azolla Ventures"},{"name":"Kristen Wang","firm":"EuReality Capital"}],[{"name":"Hemang Kapasi","firm":"xcel MD"},{"name":"Aaron Pickard","firm":"MFV Partners"}],[{"name":"Lauren Tannhauser","firm":"PsyMed / Kaleida / Jumpspace"},{"name":"John Ahrens","firm":"Overlap Holdings"}]],"hiringTable":"H5"},{"table":9,"name":"Raizon","founder":"Jessica Li","sector":"Climate & Energy","stage":"Ideation","web":"","blurb":"Ag tech robotics and sensing.","hiring":"","schedule":[[{"name":"John Ahrens","firm":"Overlap Holdings"},{"name":"Usua Amanam","firm":"Dolby Family Ventures"}],[{"name":"August Fern","firm":"Adapt [us] Capital"},{"name":"Steven Horowitz","firm":"EWOR"}],[{"name":"Emilie Mazzacurati","firm":"Tailwind Futures"},{"name":"Genevieve Hummer","firm":"Piva Capital"}],[{"name":"Dyllan Liu","firm":"Vectro Ventures"},{"name":"Kristen Wang","firm":"EuReality Capital"}],[{"name":"Erik Knall","firm":"Azolla Ventures"},{"name":"Gordon Shi","firm":"Thusly Ventures"}]],"hiringTable":""},{"table":10,"name":"NC2","founder":"Alexander Nesiah","sector":"Climate & Energy","stage":"Ideation","web":"","blurb":"Circular production of food and other life essentials, for use on earth and in space.","hiring":"","schedule":[[{"name":"Erik Knall","firm":"Azolla Ventures"},{"name":"Genevieve Hummer","firm":"Piva Capital"}],[{"name":"Dyllan Liu","firm":"Vectro Ventures"},{"name":"John Ahrens","firm":"Overlap Holdings"}],[{"name":"Mihir Pershad","firm":"Ayuh Ventures"},{"name":"Gordon Shi","firm":"Thusly Ventures"}],[{"name":"Emilie Mazzacurati","firm":"Tailwind Futures"},{"name":"Steven Horowitz","firm":"EWOR"}],[{"name":"August Fern","firm":"Adapt [us] Capital"},{"name":"Kristen Wang","firm":"EuReality Capital"}]],"hiringTable":""},{"table":11,"name":"Saro Energy","founder":"Rohith","sector":"Climate & Energy","stage":"Early customer","web":"https://saro.energy","blurb":"AI-powered hardware and software that helps commercial buildings, industrial facilities and data centers reduce energy use and improve reliability.","hiring":"Business Development and Enterprise Sales Intern or Associate","schedule":[[{"name":"Emilie Mazzacurati","firm":"Tailwind Futures"},{"name":"Ibrahim Noon","firm":"Forerunner Ventures"}],[{"name":"Aaron Pickard","firm":"MFV Partners"},{"name":"Genevieve Hummer","firm":"Piva Capital"}],[{"name":"August Fern","firm":"Adapt [us] Capital"},{"name":"Steven Horowitz","firm":"EWOR"}],[{"name":"John Ahrens","firm":"Overlap Holdings"},{"name":"Gordon Shi","firm":"Thusly Ventures"}],[{"name":"Carly Anderson","firm":"Timescale Ventures"},{"name":"Dyllan Liu","firm":"Vectro Ventures"}]],"hiringTable":"H9"},{"table":12,"name":"Ai Linear","founder":"Ali Tasdighi Far","sector":"Hardware & Physical AI","stage":"Prototype","web":"https://ailinear.com","blurb":"Tiny, ultra low power AI chips that sit at the sensor, so motors, robots, drones and medical devices can run AI locally without the cloud. UC Berkeley roots, 33 US patents and SBIR funding.","hiring":"","schedule":[[{"name":"Aaron Pickard","firm":"MFV Partners"},{"name":"Maria Rutkowska","firm":"Collide Capital"}],[{"name":"Kristen Wang","firm":"EuReality Capital"},{"name":"Garrett Temple","firm":"Year Zero Ventures Group"}],[{"name":"Ibrahim Noon","firm":"Forerunner Ventures"},{"name":"Madison Zhan","firm":"AFORE Capital & Entrepreneurs First"}],[{"name":"Jerry Bellman","firm":"California Innovation Fund"},{"name":"MJ","firm":"Korea Investment Partners"}],[{"name":"Cami Orozco Gil","firm":"Ubiquity"},{"name":"Usua Amanam","firm":"Dolby Family Ventures"}]],"hiringTable":""},{"table":13,"name":"Bimotal","founder":"Peter Pang","sector":"Hardware & Physical AI","stage":"Early customer","web":"https://bimotal.com","blurb":"High torque motors for robotics and physical AI.","hiring":"","schedule":[[{"name":"Jerry Bellman","firm":"California Innovation Fund"},{"name":"MJ","firm":"Korea Investment Partners"}],[{"name":"Madison Zhan","firm":"AFORE Capital & Entrepreneurs First"}],[{"name":"Cami Orozco Gil","firm":"Ubiquity"},{"name":"Garrett Temple","firm":"Year Zero Ventures Group"}],[{"name":"Ibrahim Noon","firm":"Forerunner Ventures"},{"name":"Maria Rutkowska","firm":"Collide Capital"}],[{"name":"Aaron Pickard","firm":"MFV Partners"},{"name":"Hye Jin Park","firm":"UC Berkeley Haas"}]],"hiringTable":""},{"table":14,"name":"NV Qubits","founder":"Rajeev Kumar Nambiyar","sector":"Hardware & Physical AI","stage":"Prototype","web":"https://nv-qubits.lovable.app","blurb":"Quantum sensing with solid state qubits in diamond.","hiring":"","schedule":[[{"name":"Madison Zhan","firm":"AFORE Capital & Entrepreneurs First"},{"name":"Uday Sandhu","firm":"AIC"}],[{"name":"Ani Vadavatha","firm":"AB Plus Ventures"},{"name":"MJ","firm":"Korea Investment Partners"}],[{"name":"Hye Jin Park","firm":"UC Berkeley Haas"},{"name":"Jerry Bellman","firm":"California Innovation Fund"}],[{"name":"Cami Orozco Gil","firm":"Ubiquity"},{"name":"Garrett Temple","firm":"Year Zero Ventures Group"}],[{"name":"Maria Rutkowska","firm":"Collide Capital"}]],"hiringTable":""},{"table":16,"name":"Assemble Robotics","founder":"Kashyap Khaitan","sector":"Hardware & Physical AI","stage":"Early customer","web":"https://assemble-robotics.com","blurb":"Robotics.","hiring":"Roles to be shared","schedule":[[{"name":"Cami Orozco Gil","firm":"Ubiquity"},{"name":"Ishtiaque Mohammad","firm":"Astra Ventures"}],[{"name":"Jerry Bellman","firm":"California Innovation Fund"},{"name":"Uday Sandhu","firm":"AIC"}],[{"name":"Ani Vadavatha","firm":"AB Plus Ventures"},{"name":"Maria Rutkowska","firm":"Collide Capital"}],[{"name":"Hye Jin Park","firm":"UC Berkeley Haas"}],[{"name":"Madison Zhan","firm":"AFORE Capital & Entrepreneurs First"}]],"hiringTable":""},{"table":17,"name":"Noah Labs","founder":"Murat Isik","sector":"Hardware & Physical AI","stage":"Funded","web":"https://www.noahlabs.ai","blurb":"An applied research lab automating software engineering inside classified and regulated environments, including legacy software modernization and auditable AI workflows for defense.","hiring":"LLM Research Engineer, GovTech Business Development Associate","schedule":[[{"name":"Hye Jin Park","firm":"UC Berkeley Haas"}],[{"name":"Cami Orozco Gil","firm":"Ubiquity"},{"name":"Maria Rutkowska","firm":"Collide Capital"}],[{"name":"Ishtiaque Mohammad","firm":"Astra Ventures"},{"name":"Tae Kyu Lee","firm":"Blissvine Ventures / El Fuego"}],[{"name":"Ani Vadavatha","firm":"AB Plus Ventures"},{"name":"Lisa Wolff","firm":"Macroscopic Ventures"}],[{"name":"Andrea Li","firm":"Li Family Office"},{"name":"Uday Sandhu","firm":"AIC"}]],"hiringTable":"H7"},{"table":18,"name":"Fuse Dynamics","founder":"Ilan Bruski","sector":"Hardware & Physical AI","stage":"Prototype","web":"https://fusedynamics.ai","blurb":"Aerospace and physical AI, including AI-driven aerospace simulation.","hiring":"","schedule":[[{"name":"Ani Vadavatha","firm":"AB Plus Ventures"},{"name":"Asher Siddiqui","firm":"Song United"}],[{"name":"Lisa Wolff","firm":"Macroscopic Ventures"},{"name":"Tae Kyu Lee","firm":"Blissvine Ventures / El Fuego"}],[{"name":"MJ","firm":"Korea Investment Partners"},{"name":"Uday Sandhu","firm":"AIC"}],[{"name":"Andrea Li","firm":"Li Family Office"},{"name":"Madison Zhan","firm":"AFORE Capital & Entrepreneurs First"}],[{"name":"Chida Khatua","firm":"TempoDyn Ventures"},{"name":"Ishtiaque Mohammad","firm":"Astra Ventures"}]],"hiringTable":""},{"table":19,"name":"Solio Bio","founder":"Nathan Paumier","sector":"Bio & Neuro","stage":"Prototype","web":"https://soliobio.com","blurb":"Synthetic biology and biomanufacturing for skin longevity.","hiring":"Analytical chemist, strain engineer, downstream purification, marketing or community (full time from early 2027, interns summer 2027)","schedule":[[{"name":"Lauren Tannhauser","firm":"PsyMed / Kaleida / Jumpspace"},{"name":"Tae Kyu Lee","firm":"Blissvine Ventures / El Fuego"}],[{"name":"Hemang Kapasi","firm":"xcel MD"},{"name":"Andrea Li","firm":"Li Family Office"}],[{"name":"Rie Guerreschi","firm":"Mitsui Chemicals America"},{"name":"Lisa Wolff","firm":"Macroscopic Ventures"}],[{"name":"Erik Knall","firm":"Azolla Ventures"},{"name":"Ishtiaque Mohammad","firm":"Astra Ventures"}],[{"name":"Mihir Pershad","firm":"Ayuh Ventures"},{"name":"Bivek Adhikari","firm":"AI Capital"}]],"hiringTable":"H6"},{"table":20,"name":"Nocturnal Neuro","founder":"Ishika Agrawal","sector":"Bio & Neuro","stage":"Early customer","web":"https://www.nocturnalneuro.com","blurb":"An EEG headset with machine learning for bipolar disorder and depression.","hiring":"","schedule":[[{"name":"Mihir Pershad","firm":"Ayuh Ventures"},{"name":"Andrea Li","firm":"Li Family Office"}],[{"name":"Bivek Adhikari","firm":"AI Capital"},{"name":"Ishtiaque Mohammad","firm":"Astra Ventures"}],[{"name":"Lauren Tannhauser","firm":"PsyMed / Kaleida / Jumpspace"}],[{"name":"Tae Kyu Lee","firm":"Blissvine Ventures / El Fuego"},{"name":"Usua Amanam","firm":"Dolby Family Ventures"}],[{"name":"Hemang Kapasi","firm":"xcel MD"},{"name":"Lisa Wolff","firm":"Macroscopic Ventures"}]],"hiringTable":""},{"table":21,"name":"Neuraffica","founder":"Marta Gajowa","sector":"Bio & Neuro","stage":"Ideation","web":"https://neuraffica.com","blurb":"Neurotech built on living neurons.","hiring":"Computational Neuroscientist, ML Training Engineer (interns or part time)","schedule":[[{"name":"Bivek Adhikari","firm":"AI Capital"},{"name":"Lisa Wolff","firm":"Macroscopic Ventures"}],[{"name":"Lauren Tannhauser","firm":"PsyMed / Kaleida / Jumpspace"},{"name":"Hye Jin Park","firm":"UC Berkeley Haas"}],[{"name":"Hemang Kapasi","firm":"xcel MD"},{"name":"Andrea Li","firm":"Li Family Office"}],[{"name":"Mihir Pershad","firm":"Ayuh Ventures"},{"name":"Asher Siddiqui","firm":"Song United"}],[{"name":"Steven Horowitz","firm":"EWOR"},{"name":"Tae Kyu Lee","firm":"Blissvine Ventures / El Fuego"}]],"hiringTable":"H8"},{"table":22,"name":"Umbra Bio","founder":"Paul Donohoue","sector":"Bio & Neuro","stage":"Early customer","web":"https://umbrabio.com","blurb":"A protein design platform that builds the therapeutic function into the design itself, so molecules do more than bind their target.","hiring":"","schedule":[[{"name":"Hemang Kapasi","firm":"xcel MD"},{"name":"Chida Khatua","firm":"TempoDyn Ventures"}],[{"name":"Mihir Pershad","firm":"Ayuh Ventures"},{"name":"Gordon Shi","firm":"Thusly Ventures"}],[{"name":"Asher Siddiqui","firm":"Song United"},{"name":"Bivek Adhikari","firm":"AI Capital"}],[{"name":"Lauren Tannhauser","firm":"PsyMed / Kaleida / Jumpspace"},{"name":"Uday Sandhu","firm":"AIC"}],[{"name":"Ani Vadavatha","firm":"AB Plus Ventures"},{"name":"Garrett Temple","firm":"Year Zero Ventures Group"}]],"hiringTable":""},{"table":null,"name":"Eight Sleep","founder":"Sam Kang","sector":"Hiring only","stage":"Funded","web":"https://eightsleep.com","blurb":"Robotics for sleep: a bed with sensors and actuation that works in a closed loop to improve sleep and health.","hiring":"Senior or Staff Mechanical Engineer, Senior Electrical Engineer, Thermal Engineer (full time)","schedule":[],"hiringTable":"H1"},{"table":null,"name":"Hadamard","founder":"Sophia Mejjati","sector":"Hiring only","stage":"Funded","web":"https://hadamardlabs.com","blurb":"Quantum technologies and life sciences.","hiring":"Roles to be shared","schedule":[],"hiringTable":""}]}
+{
+ "version": "20261013224537",
+ "updated": "2026-10-13T22:45:37.831815+00:00",
+ "people": [
+  {
+   "name": "Josh Douglas",
+   "role": "Founder",
+   "company": "CPTI",
+   "title": "Cofounder & COO",
+   "sector": "Climate & Energy",
+   "startup": "CPTI",
+   "hireKw": [
+    "electrical"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "energy",
+    "materials"
+   ],
+   "why": "",
+   "stage": "Funded",
+   "hiring": "Test engineering and electrical engineering interns (Palo Alto), Electrical Engineer for energy harvesting, Founding Growth Lead",
+   "secs": [
+    "climate",
+    "hardware"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Yasmeen Alfaraj",
+   "role": "Founder",
+   "company": "NextSet Materials",
+   "title": "CEO",
+   "sector": "Climate & Energy",
+   "startup": "NextSet Materials",
+   "hireKw": [
+    "materials"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "electrical",
+    "energy",
+    "materials"
+   ],
+   "why": "",
+   "stage": "Prototype",
+   "hiring": "Roles to be shared",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Boya Qu-Qizilbash",
+   "role": "Founder",
+   "company": "SemiValley",
+   "title": "CEO",
+   "sector": "Climate & Energy",
+   "startup": "SemiValley",
+   "hireKw": [
+    "electrical",
+    "mechanical",
+    "thermal"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "energy",
+    "thermal"
+   ],
+   "why": "",
+   "stage": "Funded",
+   "hiring": "Mechanical and electrical engineers, full time or internship",
+   "secs": [
+    "climate",
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Meiyin Liu",
+   "role": "Founder",
+   "company": "Nyquist Energy",
+   "title": "CTO",
+   "sector": "Climate & Energy",
+   "startup": "Nyquist Energy",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "energy",
+    "ml"
+   ],
+   "why": "",
+   "stage": "Prototype",
+   "secs": [
+    "climate",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Aaron Kaufman",
+   "role": "Founder",
+   "company": "Dyco Systems",
+   "title": "CEO, Founder",
+   "sector": "Climate & Energy",
+   "startup": "Dyco Systems",
+   "hireKw": [
+    "chemistry"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "energy"
+   ],
+   "why": "",
+   "stage": "Early customer",
+   "hiring": "Electrochemical and chemical engineering",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Ashley Bernstein",
+   "role": "Founder",
+   "company": "Rhoic",
+   "title": "Co-founder and COO",
+   "sector": "Climate & Energy",
+   "startup": "Rhoic",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "chemistry",
+    "energy",
+    "materials"
+   ],
+   "why": "",
+   "stage": "Prototype",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Michael McNeely",
+   "role": "Founder",
+   "company": "Herl Tech",
+   "title": "CEO",
+   "sector": "Climate & Energy",
+   "startup": "Herl Tech",
+   "hireKw": [
+    "chemistry",
+    "materials",
+    "nuclear"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "energy",
+    "nuclear"
+   ],
+   "why": "",
+   "stage": "Ideation",
+   "hiring": "Radiochemistry and materials science interns or part time for equity, plus help with DARPA grants",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Sandra Zalas",
+   "role": "Founder",
+   "company": "Baltic Jungle Lab",
+   "title": "Founder",
+   "sector": "Climate & Energy",
+   "startup": "Baltic Jungle Lab",
+   "hireKw": [
+    "ml"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "energy",
+    "ml"
+   ],
+   "why": "",
+   "stage": "Prototype",
+   "hiring": "CTO or founding ML, computer vision or research engineer, plus hardware and environmental engineering collaborators",
+   "secs": [
+    "climate",
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Jessica Li",
+   "role": "Founder",
+   "company": "Raizon",
+   "title": "Founding Head of Growth",
+   "sector": "Climate & Energy",
+   "startup": "Raizon",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "Robotics, systems design, hardware integration, IoT, edge computing, sensor fusion",
+   "stages": [],
+   "skills": [
+    "energy",
+    "robotics"
+   ],
+   "why": "",
+   "stage": "Ideation",
+   "secs": [
+    "climate",
+    "hardware"
+   ],
+   "cofKw": [
+    "robotics"
+   ],
+   "cancelled": true
+  },
+  {
+   "name": "Alexander Nesiah",
+   "role": "Founder",
+   "company": "NC2",
+   "title": "Founder",
+   "sector": "Climate & Energy",
+   "startup": "NC2",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "Chemical engineering, genetic engineering, microbiology",
+   "stages": [],
+   "skills": [
+    "bio",
+    "energy"
+   ],
+   "why": "",
+   "stage": "Ideation",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio"
+   ],
+   "cofKw": [
+    "bio",
+    "chemistry"
+   ]
+  },
+  {
+   "name": "Rohith",
+   "role": "Founder",
+   "company": "Saro Energy",
+   "title": "Founder & CEO",
+   "sector": "Climate & Energy",
+   "startup": "Saro Energy",
+   "hireKw": [
+    "business"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "energy",
+    "ml",
+    "software"
+   ],
+   "why": "",
+   "stage": "Early customer",
+   "hiring": "Business Development and Enterprise Sales Intern or Associate",
+   "secs": [
+    "climate",
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Ali Tasdighi Far",
+   "role": "Founder",
+   "company": "Ai Linear",
+   "title": "Founder",
+   "sector": "Hardware & Physical AI",
+   "startup": "Ai Linear",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "bio",
+    "energy",
+    "ml",
+    "robotics"
+   ],
+   "why": "",
+   "stage": "Prototype",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Peter Pang",
+   "role": "Founder",
+   "company": "Bimotal",
+   "title": "Founder",
+   "sector": "Hardware & Physical AI",
+   "startup": "Bimotal",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "ml",
+    "robotics"
+   ],
+   "why": "",
+   "stage": "Early customer",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Rajeev Kumar Nambiyar",
+   "role": "Founder",
+   "company": "NV Qubits",
+   "title": "Founder and CEO",
+   "sector": "Hardware & Physical AI",
+   "startup": "NV Qubits",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "Diamond fabrication engineer (MPCVD) for quantum sensing",
+   "stages": [],
+   "skills": [
+    "ml"
+   ],
+   "why": "",
+   "stage": "Prototype",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": [
+    "materials"
+   ]
+  },
+  {
+   "name": "Kashyap Khaitan",
+   "role": "Founder",
+   "company": "Assemble Robotics",
+   "title": "Founder",
+   "sector": "Hardware & Physical AI",
+   "startup": "Assemble Robotics",
+   "hireKw": [
+    "electrical",
+    "ml",
+    "robotics",
+    "software"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "ml",
+    "robotics"
+   ],
+   "why": "",
+   "stage": "Early customer",
+   "hiring": "Robotics stack: EE, firmware, systems, hardware, software, AI and data",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Murat Isik",
+   "role": "Founder",
+   "company": "Noah Labs",
+   "title": "CEO",
+   "sector": "Hardware & Physical AI",
+   "startup": "Noah Labs",
+   "hireKw": [
+    "business",
+    "ml"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "ml",
+    "software"
+   ],
+   "why": "",
+   "stage": "Funded",
+   "hiring": "LLM Research Engineer, GovTech Business Development Associate",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Ilan Bruski",
+   "role": "Founder",
+   "company": "Fuse Dynamics",
+   "title": "Founder / Student",
+   "sector": "Hardware & Physical AI",
+   "startup": "Fuse Dynamics",
+   "hireKw": [
+    "ml",
+    "thermal"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "ml"
+   ],
+   "why": "",
+   "stage": "Prototype",
+   "hiring": "CFD and ML founding engineer, after funding",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Nathan Paumier",
+   "role": "Founder",
+   "company": "Solio Bio",
+   "title": "Co-Founder & CEO",
+   "sector": "Bio & Neuro",
+   "startup": "Solio Bio",
+   "hireKw": [
+    "bio",
+    "business",
+    "chemistry"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "bio"
+   ],
+   "why": "",
+   "stage": "Prototype",
+   "hiring": "Analytical chemist, strain engineer, downstream purification, marketing or community (full time from early 2027, interns summer 2027)",
+   "secs": [
+    "climate",
+    "bio"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Ishika Agrawal",
+   "role": "Founder",
+   "company": "Nocturnal Neuro",
+   "title": "Founder",
+   "sector": "Bio & Neuro",
+   "startup": "Nocturnal Neuro",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "bio",
+    "ml"
+   ],
+   "why": "",
+   "stage": "Early customer",
+   "secs": [
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "hiring": "ML Founding Engineer (part time, MS required, PhD preferred). EEG Technician x2 (spring or summer internship)."
+  },
+  {
+   "name": "Marta Gajowa",
+   "role": "Founder",
+   "company": "Neuraffica",
+   "title": "Ceo",
+   "sector": "Bio & Neuro",
+   "startup": "Neuraffica",
+   "hireKw": [
+    "bio",
+    "ml"
+   ],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "bio",
+    "ml"
+   ],
+   "why": "",
+   "stage": "Ideation",
+   "hiring": "Computational Neuroscientist, ML Training Engineer (interns or part time)",
+   "secs": [
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Paul Donohoue",
+   "role": "Founder",
+   "company": "Umbra Bio",
+   "title": "CEO",
+   "sector": "Bio & Neuro",
+   "startup": "Umbra Bio",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "bio"
+   ],
+   "why": "",
+   "stage": "Early customer",
+   "secs": [
+    "bio"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Sam Kang",
+   "role": "Hiring",
+   "company": "Eight Sleep",
+   "title": "Chief Product Officer",
+   "sector": "Hiring only",
+   "startup": "Eight Sleep",
+   "hireKw": [
+    "electrical",
+    "mechanical",
+    "thermal"
+   ],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "robotics"
+   ],
+   "why": "",
+   "stage": "Funded",
+   "hiring": "Senior or Staff Mechanical Engineer, Senior Electrical Engineer, Thermal Engineer (full time)",
+   "secs": [
+    "hardware",
+    "bio"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Sophia Mejjati",
+   "role": "Hiring",
+   "company": "Hadamard",
+   "title": "CEO",
+   "sector": "Hiring only",
+   "startup": "Hadamard",
+   "hireKw": [
+    "ml"
+   ],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "stage": "Funded",
+   "hiring": "Technical roles in quantum technology, AI and life sciences",
+   "secs": [
+    "hardware",
+    "bio"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "August Fern",
+   "role": "Investor",
+   "company": "Adapt [us] Capital",
+   "title": "General Partner",
+   "sector": "Climate & Energy",
+   "schedule": [
+    "Baltic Jungle Lab",
+    "CPTI",
+    "Saro Energy",
+    "Herl Tech",
+    "NC2"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer"
+   ],
+   "skills": [],
+   "why": "Support the Berkeley ecosystem",
+   "check": "$500k to $1M",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    {
+     "was": "Raizon",
+     "tag": "Cancelled",
+     "kind": "suggest"
+    },
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Carly Anderson",
+   "role": "Investor",
+   "company": "Timescale Ventures",
+   "title": "Co-Founder & Managing Partner",
+   "sector": "Climate & Energy",
+   "schedule": [
+    "Rhoic",
+    "NC2",
+    "CPTI",
+    "Dyco Systems",
+    "Saro Energy"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer"
+   ],
+   "skills": [],
+   "why": "Meet founders and prospective founders, and be helpful",
+   "check": "$500k to $2M",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    {
+     "was": "NextSet Materials",
+     "tag": "Cancelled",
+     "kind": "go"
+    },
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Emilie Mazzacurati",
+   "role": "Investor",
+   "company": "Tailwind Futures",
+   "title": "Founding Partner",
+   "sector": "Climate & Energy",
+   "schedule": [
+    "Saro Energy",
+    "Baltic Jungle Lab",
+    "Raizon",
+    "NC2",
+    "Herl Tech"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Sourcing potential investments",
+   "check": "$250k to $500k",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Erik Knall",
+   "role": "Investor",
+   "company": "Azolla Ventures",
+   "title": "Investment Associate",
+   "sector": "Climate & Energy",
+   "schedule": [
+    "NC2",
+    "Herl Tech",
+    "Baltic Jungle Lab",
+    "CPTI",
+    "Rhoic"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Sourcing and engaging with the climate tech and deep tech community",
+   "check": "Up to $5M, typical $2M",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    {
+     "was": "Solio Bio",
+     "tag": "Changed",
+     "kind": "go"
+    },
+    {
+     "was": "Raizon",
+     "tag": "Cancelled",
+     "kind": "suggest"
+    }
+   ]
+  },
+  {
+   "name": "Erin Kirton",
+   "role": "Investor",
+   "company": "VoLo Earth Ventures",
+   "title": "Senior Associate",
+   "sector": "Climate & Energy",
+   "schedule": [
+    "CPTI",
+    "Nyquist Energy",
+    "Rhoic",
+    "SemiValley",
+    "NextSet Materials"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Meet deep tech founders, fellow investors and industry players",
+   "check": "$500k to $5M",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Julia Yan",
+   "role": "Investor",
+   "company": "Prelude Ventures",
+   "title": "Senior Associate",
+   "sector": "Climate & Energy",
+   "schedule": [
+    "Nyquist Energy",
+    "Dyco Systems",
+    "Herl Tech",
+    "CPTI",
+    "SemiValley"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Meet early climate founders who want to build relationships with climate investors before they raise",
+   "check": "$3M to $10M",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    {
+     "was": "NextSet Materials",
+     "tag": "Cancelled",
+     "kind": "go"
+    },
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Nare Janvelyan",
+   "role": "Investor",
+   "company": "Voyager Ventures",
+   "title": "Principal",
+   "sector": "Climate & Energy",
+   "schedule": [
+    "NextSet Materials",
+    "CPTI",
+    "SemiValley",
+    "Nyquist Energy",
+    "Rhoic"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Meet founders and PIs",
+   "check": "$500k to $10M",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Hemang Kapasi",
+   "role": "Investor",
+   "company": "xcel MD",
+   "title": "MD",
+   "sector": "Bio & Neuro",
+   "schedule": [
+    "Umbra Bio",
+    "Solio Bio",
+    "Neuraffica",
+    "Baltic Jungle Lab",
+    "Nocturnal Neuro"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Partner with deep tech founders and GPs",
+   "check": "Depends",
+   "secs": [
+    "bio"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Lauren Tannhauser",
+   "role": "Investor",
+   "company": "PsyMed / Kaleida / Jumpspace",
+   "title": "CoS",
+   "sector": "Bio & Neuro",
+   "schedule": [
+    "Solio Bio",
+    "Neuraffica",
+    "Nocturnal Neuro",
+    "Umbra Bio",
+    "Baltic Jungle Lab"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Find great founders, especially in neurotech and health",
+   "check": "$25k to $5M",
+   "secs": [
+    "bio"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Mihir Pershad",
+   "role": "Investor",
+   "company": "Ayuh Ventures",
+   "title": "Partner",
+   "sector": "Bio & Neuro",
+   "schedule": [
+    "Nocturnal Neuro",
+    "Umbra Bio",
+    "NC2",
+    "Neuraffica",
+    "Solio Bio"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer"
+   ],
+   "skills": [],
+   "why": "See emerging tech and founders early",
+   "check": "$500k to $1M",
+   "secs": [
+    "bio"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Aaron Pickard",
+   "role": "Investor",
+   "company": "MFV Partners",
+   "title": "Investor",
+   "sector": "Generalist",
+   "schedule": [
+    "Ai Linear",
+    "Saro Energy",
+    "Dyco Systems",
+    "Baltic Jungle Lab",
+    "Bimotal"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Sourcing and relationship building",
+   "check": "$1M to $3M",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Cara Hu",
+   "role": "Investor",
+   "company": "Builders VC",
+   "title": "Investor",
+   "sector": "Generalist",
+   "schedule": [
+    "Dyco Systems",
+    "SemiValley",
+    "CPTI",
+    "Rhoic",
+    "Nyquist Energy"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Meet exceptional founders and support the Berkeley ecosystem",
+   "check": "Seed under $10M",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    {
+     "was": "NextSet Materials",
+     "tag": "Cancelled",
+     "kind": "suggest"
+    },
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Choong Sohn",
+   "role": "Investor",
+   "company": "Angulate Ventures",
+   "title": "Managing Partner",
+   "sector": "Generalist",
+   "schedule": [
+    "SemiValley",
+    "Rhoic",
+    "Nyquist Energy",
+    "Fuse Dynamics",
+    "Herl Tech"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer"
+   ],
+   "skills": [],
+   "why": "Connect with interesting startups",
+   "check": "$100k to $500k",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    {
+     "was": "NextSet Materials",
+     "tag": "Cancelled",
+     "kind": "go"
+    },
+    {
+     "was": "CPTI",
+     "tag": "Founder leaves early",
+     "kind": "suggest"
+    }
+   ]
+  },
+  {
+   "name": "Dyllan Liu",
+   "role": "Investor",
+   "company": "Vectro Ventures",
+   "title": "Founding Partner",
+   "sector": "Generalist",
+   "schedule": [
+    "Dyco Systems",
+    "NC2",
+    "Herl Tech",
+    "Raizon",
+    "Saro Energy"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer"
+   ],
+   "skills": [],
+   "why": "",
+   "check": "$50k to $500k",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Ibrahim Noon",
+   "role": "Investor",
+   "company": "Forerunner Ventures",
+   "title": "Investor",
+   "sector": "Generalist",
+   "schedule": [
+    "Saro Energy",
+    "Baltic Jungle Lab",
+    "Ai Linear",
+    "Bimotal",
+    "Dyco Systems"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Explore Berkeley deep tech startups",
+   "check": "$1M to $20M",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "John Ahrens",
+   "role": "Investor",
+   "company": "Overlap Holdings",
+   "title": "Senior Associate",
+   "sector": "Generalist",
+   "schedule": [
+    "Raizon",
+    "NC2",
+    "Herl Tech",
+    "Saro Energy",
+    "Baltic Jungle Lab"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Build relationships with engineers and scientists and help them toward a commercial path",
+   "check": "$750k",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Kristen Wang",
+   "role": "Investor",
+   "company": "EuReality Capital",
+   "title": "",
+   "sector": "Generalist",
+   "schedule": [
+    "Herl Tech",
+    "Ai Linear",
+    "Baltic Jungle Lab",
+    "Nocturnal Neuro",
+    "NC2"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype"
+   ],
+   "skills": [],
+   "why": "Meet future founders",
+   "check": "$200k to $500k",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    {
+     "was": "Raizon",
+     "tag": "Cancelled",
+     "kind": "go"
+    },
+    null
+   ]
+  },
+  {
+   "name": "Mary Lee",
+   "role": "Investor",
+   "company": "Manifest Ventures",
+   "title": "Investor & Head of Community",
+   "sector": "Generalist",
+   "schedule": [
+    "CPTI",
+    "Rhoic",
+    "Dyco Systems",
+    "SemiValley",
+    "Nyquist Energy"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer"
+   ],
+   "skills": [],
+   "why": "Meet and support founders in the Berkeley ecosystem",
+   "check": "$500k to $5M",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    {
+     "was": "NextSet Materials",
+     "tag": "Cancelled",
+     "kind": "suggest"
+    },
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Michal de Beer",
+   "role": "Investor",
+   "company": "Dolby Family Ventures",
+   "title": "Analyst",
+   "sector": "Generalist",
+   "schedule": [
+    "Nyquist Energy",
+    "SemiValley",
+    "Rhoic",
+    "CPTI",
+    "Baltic Jungle Lab"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer"
+   ],
+   "skills": [],
+   "why": "Berkeley grad, wants to see what is happening in the Berkeley startup ecosystem",
+   "check": "$500k to $3M",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    {
+     "was": "NextSet Materials",
+     "tag": "Cancelled",
+     "kind": "suggest"
+    }
+   ]
+  },
+  {
+   "name": "Mike Mettler",
+   "role": "Investor",
+   "company": "Roadrunner Capital",
+   "title": "Partner",
+   "sector": "Generalist",
+   "schedule": [
+    "Rhoic",
+    "CPTI",
+    "Nyquist Energy",
+    "NextSet Materials",
+    "SemiValley"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer"
+   ],
+   "skills": [],
+   "why": "Help important science turn into very big companies",
+   "check": "Up to $1M",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Rie Guerreschi",
+   "role": "Investor",
+   "company": "Mitsui Chemicals America",
+   "title": "Business Development Manager",
+   "sector": "Generalist",
+   "schedule": [
+    "SemiValley",
+    "Dyco Systems",
+    "Solio Bio",
+    "Nyquist Energy",
+    "Rhoic"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Prototype",
+    "Early customer",
+    "Funded"
+   ],
+   "skills": [],
+   "why": "Tech scouting with UC Berkeley startups",
+   "check": "$1M to $2M",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Steven Horowitz",
+   "role": "Investor",
+   "company": "EWOR",
+   "title": "Principal",
+   "sector": "Generalist",
+   "schedule": [
+    "Nocturnal Neuro",
+    "Nyquist Energy",
+    "Saro Energy",
+    "NC2",
+    "Ai Linear"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [
+    "Ideation",
+    "Prototype",
+    "Early customer"
+   ],
+   "skills": [],
+   "why": "Meet talented deep tech founders",
+   "check": "$300k to $600k",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    {
+     "was": "Herl Tech",
+     "tag": "Changed",
+     "kind": "go"
+    },
+    {
+     "was": "Raizon",
+     "tag": "Cancelled",
+     "kind": "suggest"
+    },
+    null,
+    null,
+    {
+     "was": "Neuraffica",
+     "tag": "Changed",
+     "kind": "go"
+    }
+   ]
+  },
+  {
+   "name": "Genevieve Hummer",
+   "role": "Investor",
+   "company": "Piva Capital",
+   "title": "Investor",
+   "sector": "Climate & Energy",
+   "schedule": [
+    "NC2",
+    "Saro Energy",
+    "SemiValley",
+    "Dyco Systems",
+    "Herl Tech"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    {
+     "was": "Raizon",
+     "tag": "Cancelled",
+     "kind": "suggest"
+    },
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Cami Orozco Gil",
+   "role": "Investor",
+   "company": "Ubiquity",
+   "title": "Investor",
+   "sector": "Hardware & Physical AI",
+   "schedule": [
+    "Assemble Robotics",
+    "Noah Labs",
+    "Bimotal",
+    "NV Qubits",
+    "Ai Linear"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "hardware"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Andrea Li",
+   "role": "Investor",
+   "company": "Li Family Office",
+   "title": "Investment Officer",
+   "sector": "Generalist",
+   "schedule": [
+    "Nocturnal Neuro",
+    "Solio Bio",
+    "Neuraffica",
+    "Fuse Dynamics",
+    "Noah Labs"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Ani Vadavatha",
+   "role": "Investor",
+   "company": "AB Plus Ventures",
+   "title": "Founder & Managing Partner",
+   "sector": "Generalist",
+   "schedule": [
+    "Fuse Dynamics",
+    "NV Qubits",
+    "Assemble Robotics",
+    "Noah Labs",
+    "Xpyq"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Asher Siddiqui",
+   "role": "Investor",
+   "company": "Song United",
+   "title": "Managing Director",
+   "sector": "Generalist",
+   "schedule": [
+    "Fuse Dynamics",
+    "CPTI",
+    "Umbra Bio",
+    "Neuraffica",
+    "SemiValley"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    {
+     "was": "NextSet Materials",
+     "tag": "Cancelled",
+     "kind": "go"
+    },
+    null,
+    null,
+    {
+     "was": "CPTI",
+     "tag": "Founder leaves early",
+     "kind": "suggest"
+    }
+   ]
+  },
+  {
+   "name": "Bivek Adhikari",
+   "role": "Investor",
+   "company": "AI Capital",
+   "title": "Investor",
+   "sector": "Generalist",
+   "schedule": [
+    "Neuraffica",
+    "Nocturnal Neuro",
+    "Umbra Bio",
+    "Rhoic",
+    "Solio Bio"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Chida Khatua",
+   "role": "Investor",
+   "company": "TempoDyn Ventures",
+   "title": "CEO",
+   "sector": "Generalist",
+   "schedule": [
+    "Umbra Bio",
+    "Nyquist Energy",
+    "SemiValley",
+    "Herl Tech",
+    "Fuse Dynamics"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Garrett Temple",
+   "role": "Investor",
+   "company": "Year Zero Ventures Group",
+   "title": "Founder + GP",
+   "sector": "Generalist",
+   "schedule": [
+    "Dyco Systems",
+    "Ai Linear",
+    "Bimotal",
+    "NV Qubits",
+    "Umbra Bio"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Gordon Shi",
+   "role": "Investor",
+   "company": "Thusly Ventures",
+   "title": "General Partner",
+   "sector": "Generalist",
+   "schedule": [
+    "Baltic Jungle Lab",
+    "Umbra Bio",
+    "NC2",
+    "Saro Energy",
+    "Neuraffica"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    {
+     "was": "Raizon",
+     "tag": "Cancelled",
+     "kind": "go"
+    }
+   ]
+  },
+  {
+   "name": "Hye Jin Park",
+   "role": "Investor",
+   "company": "UC Berkeley Haas",
+   "title": "MBA Student/Investor",
+   "sector": "Generalist",
+   "schedule": [
+    "Noah Labs",
+    "Xpyq",
+    "NV Qubits",
+    "Assemble Robotics",
+    "Bimotal"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Ishtiaque Mohammad",
+   "role": "Investor",
+   "company": "Astra Ventures",
+   "title": "General Partner",
+   "sector": "Generalist",
+   "schedule": [
+    "Assemble Robotics",
+    "Nocturnal Neuro",
+    "Noah Labs",
+    "Solio Bio",
+    "Fuse Dynamics"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Jerry Bellman",
+   "role": "Investor",
+   "company": "California Innovation Fund",
+   "title": "Vetting Director",
+   "sector": "Generalist",
+   "schedule": [
+    "Bimotal",
+    "Assemble Robotics",
+    "NV Qubits",
+    "Ai Linear",
+    "Xpyq"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Lisa Wolff",
+   "role": "Investor",
+   "company": "Macroscopic Ventures",
+   "title": "Manager",
+   "sector": "Generalist",
+   "schedule": [
+    "Neuraffica",
+    "Fuse Dynamics",
+    "Solio Bio",
+    "Noah Labs",
+    "Nocturnal Neuro"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "MJ",
+   "role": "Investor",
+   "company": "Korea Investment Partners",
+   "title": "Asosciate",
+   "sector": "Generalist",
+   "schedule": [
+    "Bimotal",
+    "NV Qubits",
+    "Xpyq",
+    "Ai Linear",
+    "Dyco Systems"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Madison Zhan",
+   "role": "Investor",
+   "company": "AFORE Capital & Entrepreneurs First",
+   "title": "Scout  & Investment Fellow",
+   "sector": "Generalist",
+   "schedule": [
+    "NV Qubits",
+    "Bimotal",
+    "Ai Linear",
+    "Xpyq",
+    "Assemble Robotics"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Maria Rutkowska",
+   "role": "Investor",
+   "company": "Collide Capital",
+   "title": "VC Scout",
+   "sector": "Generalist",
+   "schedule": [
+    "Xpyq",
+    "Noah Labs",
+    "Assemble Robotics",
+    "Bimotal",
+    "NV Qubits"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Tae Kyu Lee",
+   "role": "Investor",
+   "company": "Blissvine Ventures / El Fuego",
+   "title": "Venture partner / Co-founder",
+   "sector": "Generalist",
+   "schedule": [
+    "Solio Bio",
+    "Fuse Dynamics",
+    "Noah Labs",
+    "Nocturnal Neuro",
+    "Neuraffica"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Uday Sandhu",
+   "role": "Investor",
+   "company": "AIC",
+   "title": "General Partner",
+   "sector": "Generalist",
+   "schedule": [
+    "NV Qubits",
+    "Assemble Robotics",
+    "Fuse Dynamics",
+    "Xpyq",
+    "Noah Labs"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "scheduleNotes": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "name": "Usua Amanam",
+   "role": "Investor",
+   "company": "Dolby Family Ventures",
+   "title": "Senior Associate, VC",
+   "sector": "Generalist",
+   "schedule": [
+    "Raizon",
+    "Herl Tech",
+    "Dyco Systems",
+    "Nocturnal Neuro",
+    "Ai Linear"
+   ],
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": [],
+   "cancelled": true
+  },
+  {
+   "name": "Noah Park",
+   "role": "Student",
+   "company": "UC Berkeley Haas",
+   "title": "MBA",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "business"
+   ],
+   "why": "",
+   "program": "MBA",
+   "interests": "AI, robotics",
+   "wants": "Business strategy",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Ricardo Suber",
+   "role": "Founder",
+   "company": "CSMira",
+   "title": "Founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Alisher Begmatov, MBA",
+   "role": "Founder",
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "software"
+   ],
+   "why": "",
+   "secs": [
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Omar Najjar",
+   "role": "Student",
+   "company": "None",
+   "title": "Master engineering",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "mechanical"
+   ],
+   "why": "",
+   "program": "MS Mechanical Engineering",
+   "interests": "hardware",
+   "wants": "Technical development",
+   "secs": [
+    "hardware"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Bryce Gilleland",
+   "role": "Investor",
+   "company": "Cal Innovation Fund",
+   "title": "General Partner",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "climate",
+    "hardware",
+    "bio",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Guanchen Liu",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Student",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "ml",
+    "robotics"
+   ],
+   "why": "",
+   "program": "MEng Systems Engineering",
+   "interests": "AI, robotics",
+   "wants": "Technical development",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Andy Edwards",
+   "role": "Founder",
+   "company": "Organos Inc.",
+   "title": "Chief Technology Officer",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Dylan",
+   "role": "Founder",
+   "company": "Green Robin Labs",
+   "title": "Technical Co-founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "jiaqi Xu",
+   "role": "Student",
+   "company": "UCB",
+   "title": "student",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Jose",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Student",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Matyáš Prokopius",
+   "role": "Founder",
+   "company": "Surg",
+   "title": "Co-founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Simon Shu",
+   "role": "Founder",
+   "company": "Restart",
+   "title": "Founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Danny Bo-Yen Chang",
+   "role": "Operator",
+   "company": "Heartflow",
+   "title": "Medical ML Software Engineer",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "bio",
+    "ml",
+    "software"
+   ],
+   "why": "",
+   "secs": [
+    "bio",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Anika",
+   "role": "Operator",
+   "company": "Xory",
+   "title": "Member of Product Engineering Staff",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Maguire",
+   "role": "Founder",
+   "company": "Student",
+   "title": "Founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Aashonee",
+   "role": "Student",
+   "company": "Smartjoules",
+   "title": "Product Development intern",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "business",
+    "chemistry",
+    "energy",
+    "ml",
+    "thermal"
+   ],
+   "why": "",
+   "program": "MEng Systems Engineering",
+   "interests": "AI, clean energy, robotics, autonomous systems",
+   "wants": "Business strategy",
+   "secs": [
+    "climate",
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Alicia Zeng",
+   "role": "Founder",
+   "company": "Stealth-mode AI hardware startup on micro- and nanoscale imaging",
+   "title": "Co-founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "ml"
+   ],
+   "why": "",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Sayf Aldean",
+   "role": "Student",
+   "company": "Haas UC Berkeley",
+   "title": "EMBA 2028",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "business"
+   ],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Avah Banerjee",
+   "role": "Founder",
+   "company": "semiqlassical Inc.",
+   "title": "Co-founder & CEO (ex-faculty)",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Mahinga Singh",
+   "role": "Founder",
+   "company": "Grave Angels",
+   "title": "Founder & CTO",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Zach Zhong",
+   "role": "Operator",
+   "company": "Bubble Lab",
+   "title": "Software Engineer",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "software"
+   ],
+   "why": "",
+   "secs": [
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Clayton Forsee",
+   "role": "Student",
+   "company": "TikTok (Haas MBA/MCS currently)",
+   "title": "Tech Lead",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "business",
+    "software"
+   ],
+   "why": "",
+   "program": "MBA",
+   "interests": "cleantech, clean energy, resources",
+   "wants": "Business strategy",
+   "secs": [
+    "climate",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Sofiia",
+   "role": "Student",
+   "company": "Student",
+   "title": "Student",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Martin Gonzalez",
+   "role": "Founder",
+   "company": "sophelio.io",
+   "title": "Senior Software Engineer",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "software"
+   ],
+   "why": "",
+   "secs": [
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Omer Salomon",
+   "role": "Founder",
+   "company": "Truth Robotics",
+   "title": "CEO",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "Technical co-founder",
+   "stages": [],
+   "skills": [
+    "ml",
+    "robotics"
+   ],
+   "why": "",
+   "stage": "Prototype",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Gourab Paul",
+   "role": "Student",
+   "company": "Student",
+   "title": "cyber-security analyst",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "ml"
+   ],
+   "why": "",
+   "program": "Computer science",
+   "interests": "AI, quantum, robotics",
+   "wants": "Technical development",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Sovie Prasad Shekhar",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "MEng Student",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Mainak Ghosh",
+   "role": "Founder",
+   "company": "Ironlight",
+   "title": "Head of Product",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Rithu Pattali",
+   "role": "Student",
+   "company": "N/A",
+   "title": "PhD student",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Mia Choi",
+   "role": "Student",
+   "company": "NA",
+   "title": "Master student",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "bio",
+    "business"
+   ],
+   "why": "",
+   "program": "Master of Translational Medicine",
+   "interests": "biotech, robotics",
+   "wants": "Business strategy",
+   "secs": [
+    "hardware",
+    "bio"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Fabiano",
+   "role": "Student",
+   "company": "USF",
+   "title": "Student and researcher energy field",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "energy"
+   ],
+   "why": "",
+   "secs": [
+    "climate"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Nazli Ucar",
+   "role": "Academia",
+   "company": "Northeastern University",
+   "title": "Researcher",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Juliet C",
+   "role": "Founder",
+   "company": "FluidFly",
+   "title": "Founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Yayun",
+   "role": "Operator",
+   "company": "UC Berkeley Law",
+   "title": "LLM",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "ml"
+   ],
+   "why": "",
+   "secs": [
+    "ai"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Karim Karouta",
+   "role": "Founder",
+   "company": "BLEM",
+   "title": "Innovation Fellow",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "chemistry"
+   ],
+   "why": "",
+   "secs": [
+    "climate",
+    "bio"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Victoria Orindas",
+   "role": "Founder",
+   "company": "UC Berkeley School of Law",
+   "title": "Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Theodore George Nickolov",
+   "role": "Student",
+   "company": "Journeying Together",
+   "title": "Web Developer",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Jay Ward",
+   "role": "Operator",
+   "company": "Let Point Partners",
+   "title": "Partner",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Alex Nesiah",
+   "role": "Founder",
+   "company": "nMECH Robotics",
+   "title": "Founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "robotics"
+   ],
+   "why": "",
+   "secs": [
+    "hardware"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Yizi Mao",
+   "role": "Academia",
+   "company": "UC Berkeley",
+   "title": "Postdoc",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Sofia Mendez Roca",
+   "role": "Founder",
+   "company": "Pyrogel",
+   "title": "CEO",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Ko Takahashi",
+   "role": "Operator",
+   "company": "RESONAC AMERICA, Inc",
+   "title": "Chief Assistant Manager | Senior Researcher |",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Charlotte Boedec",
+   "role": "Founder",
+   "company": "ALVEA",
+   "title": "co-founder & CEO",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Tanisha Rungta",
+   "role": "Student",
+   "company": "Student at Berkeley",
+   "title": "Mater of engineering",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "bio"
+   ],
+   "why": "",
+   "program": "MEng",
+   "interests": "Biotech",
+   "wants": "Technical development",
+   "secs": [
+    "hardware",
+    "bio"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Jp G",
+   "role": "Operator",
+   "company": "SVB, a division of First Citizens Bank",
+   "title": "VP, SVB Startup Banking",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Nosh Robotics",
+   "role": "Founder",
+   "company": "Nosh Robotics Inc",
+   "title": "Cofounder and Chief Executive Officer",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [
+    "robotics"
+   ],
+   "why": "",
+   "secs": [
+    "hardware"
+   ],
+   "cofKw": []
+  },
+  {
+   "name": "Victor Long",
+   "role": "Founder",
+   "company": "Reasonometry",
+   "title": "Founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Jesse Kindra",
+   "role": "Academia",
+   "company": "Lawrence Berkeley National Laboratory",
+   "title": "CTTO",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Shanshan Li",
+   "role": "Academia",
+   "company": "LBNL",
+   "title": "Commercialization Manager",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Albert",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Student",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Jeremy Alberga",
+   "role": "Academia",
+   "company": "UC Berkeley Bakar Labs",
+   "title": "Chief Operating Officer",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Dilip Vasudevan",
+   "role": "Founder",
+   "company": "Xpyq",
+   "title": "Founder & CEO",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": [],
+   "startup": "Xpyq",
+   "stage": ""
+  },
+  {
+   "name": "Aravind Pochiraju",
+   "role": "Founder",
+   "company": "Xpyq",
+   "title": "Co-founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "hardware",
+    "ai"
+   ],
+   "cofKw": [],
+   "startup": "Xpyq",
+   "stage": ""
+  },
+  {
+   "name": "Toby",
+   "role": "Founder",
+   "company": "Bimotal",
+   "title": "Founder & CEO",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [
+    "hardware"
+   ],
+   "cofKw": [],
+   "startup": "Bimotal",
+   "stage": "Early customer"
+  },
+  {
+   "name": "Minh Khoa Tran",
+   "role": "Founder",
+   "company": "Noah Labs",
+   "title": "founding engineer",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Asma Basly",
+   "role": "Founder",
+   "company": "OORB",
+   "title": "Co-Founder ",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Saurabh",
+   "role": "Founder",
+   "company": "BioSky",
+   "title": "CEO",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Karan Aggarwal",
+   "role": "Founder",
+   "company": "JaneStreet, LifeLabs",
+   "title": "Founder, Senior Software Engineer",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": true,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Juan Espinoza",
+   "role": "Student",
+   "company": "universidadd de lima",
+   "title": "gerente",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Lulu Zhang",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Graduate Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Megan Liem",
+   "role": "Student",
+   "company": "UC Berkeley ",
+   "title": "Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Megh Nagvekar",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Translational Medicine graduate student ",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Shalini Harwalkar",
+   "role": "Student",
+   "company": "",
+   "title": "Recent masters grad",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Soheil Pourshahian",
+   "role": "Student",
+   "company": "Haas Student",
+   "title": "MBA Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Abhinav Sharma",
+   "role": "Student",
+   "company": "University of California, Berkeley",
+   "title": "MBA Candidate",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Benjamin Boyarsky",
+   "role": "Student",
+   "company": "FrostyOS",
+   "title": "Automation Specialist",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Maher",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Grad student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Prabhat Pathak",
+   "role": "Student",
+   "company": "Consulting/ Haas Business School",
+   "title": "senior research scientist/EWMBA student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Calvin Chen",
+   "role": "Operator",
+   "company": "UC Berkeley",
+   "title": "MBA Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Christian van der Woude",
+   "role": "Operator",
+   "company": "Consulate-General of the Netherlands in San Francisco ",
+   "title": "Innovation Attaché ",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Ryan D Taylor",
+   "role": "Operator",
+   "company": "Bakar Labs Energy & Materials",
+   "title": "Innovation Navigator",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Shreya Ramchandani",
+   "role": "Operator",
+   "company": "Brown Rudnick",
+   "title": "Senior Associate",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Spencer Gowin",
+   "role": "Operator",
+   "company": "Silicon Valley Bank",
+   "title": "Relationship Manager",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Timur Nusratty",
+   "role": "Operator",
+   "company": "Nusratty Inc.",
+   "title": "CEO",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Aarav Bathija",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Masters in Engineering in Mechanical Engineering",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Aayush Gandhi",
+   "role": "Student",
+   "company": "Hypnos, UC Berkeley",
+   "title": "Co-Founder, Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Adrian Jongen",
+   "role": "Student",
+   "company": "Engineering Student @UC Berkeley",
+   "title": "MEng Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Anish Gupta",
+   "role": "Student",
+   "company": "ucsc",
+   "title": "student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Cindy Ku",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Conrad Kistler",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "MEng Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Edwin Low",
+   "role": "Student",
+   "company": "",
+   "title": "Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Gehad Elhanafy",
+   "role": "Student",
+   "company": "BreakDown Bio",
+   "title": "Co-Founder",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Inbeom Song",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Jad Ashkar",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "MEng Mechanical engineer",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Jess (Sung Yeon) Kim",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "M.Eng Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Julia Marie Greely",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Masters Bioengineering Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Marcus Vidaurri",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Nix Gandham",
+   "role": "Student",
+   "company": "",
+   "title": "",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Shivani Gunasekar",
+   "role": "Student",
+   "company": "",
+   "title": "Masters of Engineering Student",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Shreya Walavalkar",
+   "role": "Student",
+   "company": "UC Berkeley",
+   "title": "Recent graduate",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Shruti Shirsathe",
+   "role": "Student",
+   "company": "Columbia University",
+   "title": "Computational Biologist",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Valerie Tam",
+   "role": "Student",
+   "company": "HERL",
+   "title": "Volunteer Strategy Consultant",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Beline Yuan",
+   "role": "Student",
+   "company": "",
+   "title": "Hiring mixer guest",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Charles-Antoine Degardin-Sagnier",
+   "role": "Student",
+   "company": "",
+   "title": "Hiring mixer guest",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Enzo Carvalho",
+   "role": "Student",
+   "company": "",
+   "title": "Hiring mixer guest",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  },
+  {
+   "name": "Michelle Lee",
+   "role": "Student",
+   "company": "",
+   "title": "Hiring mixer guest",
+   "sector": "",
+   "hireKw": [],
+   "seeksFunding": false,
+   "cofounder": "",
+   "stages": [],
+   "skills": [],
+   "why": "",
+   "secs": [],
+   "cofKw": []
+  }
+ ],
+ "startups": [
+  {
+   "table": 1,
+   "name": "CPTI",
+   "founder": "Josh Douglas",
+   "sector": "Climate & Energy",
+   "stage": "Funded",
+   "web": "https://cpti.co",
+   "blurb": "Perovskite solar modules, built in Palo Alto.",
+   "hiring": "Test engineering and electrical engineering interns (Palo Alto), Electrical Engineer for energy harvesting, Founding Growth Lead",
+   "schedule": [
+    [
+     {
+      "name": "Erin Kirton",
+      "firm": "VoLo Earth Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Mary Lee",
+      "firm": "Manifest Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Nare Janvelyan",
+      "firm": "Voyager Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Mike Mettler",
+      "firm": "Roadrunner Capital",
+      "cancelled": true
+     },
+     {
+      "name": "Asher Siddiqui",
+      "firm": "Song United",
+      "new": true
+     }
+    ],
+    [
+     {
+      "name": "Carly Anderson",
+      "firm": "Timescale Ventures"
+     },
+     {
+      "name": "Cara Hu",
+      "firm": "Builders VC"
+     }
+    ],
+    [
+     {
+      "name": "Julia Yan",
+      "firm": "Prelude Ventures"
+     },
+     {
+      "name": "Michal de Beer",
+      "firm": "Dolby Family Ventures"
+     },
+     {
+      "name": "Erik Knall",
+      "firm": "Azolla Ventures",
+      "new": true
+     }
+    ],
+    [
+     {
+      "name": "Choong Sohn",
+      "firm": "Angulate Ventures"
+     },
+     {
+      "name": "Asher Siddiqui",
+      "firm": "Song United"
+     }
+    ]
+   ],
+   "hiringTable": "H3",
+   "note": "Josh leaves around 5:45, so CPTI misses round 5. Cards and job info stay at the hiring table.",
+   "leavesAfterRound": 4
+  },
+  {
+   "table": 2,
+   "name": "NextSet Materials",
+   "founder": "Yasmeen Alfaraj",
+   "sector": "Climate & Energy",
+   "stage": "Prototype",
+   "web": "https://www.nextset.net",
+   "blurb": "Advanced materials and manufacturing for electronics, including electronic materials fabrication and polymers.",
+   "hiring": "Roles to be shared",
+   "schedule": [
+    [
+     {
+      "name": "Nare Janvelyan",
+      "firm": "Voyager Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Cara Hu",
+      "firm": "Builders VC"
+     }
+    ],
+    [],
+    [
+     {
+      "name": "Mary Lee",
+      "firm": "Manifest Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Mike Mettler",
+      "firm": "Roadrunner Capital",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Erin Kirton",
+      "firm": "VoLo Earth Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Michal de Beer",
+      "firm": "Dolby Family Ventures"
+     }
+    ]
+   ],
+   "hiringTable": "",
+   "cancelled": true
+  },
+  {
+   "table": 3,
+   "name": "SemiValley",
+   "founder": "Boya Qu-Qizilbash",
+   "sector": "Climate & Energy",
+   "stage": "Funded",
+   "web": "https://semivalley.co",
+   "blurb": "Two-phase jet-to-chip liquid cooling for data centers.",
+   "hiring": "Mechanical and electrical engineers, full time or internship",
+   "schedule": [
+    [
+     {
+      "name": "Choong Sohn",
+      "firm": "Angulate Ventures"
+     },
+     {
+      "name": "Rie Guerreschi",
+      "firm": "Mitsui Chemicals America"
+     }
+    ],
+    [
+     {
+      "name": "Cara Hu",
+      "firm": "Builders VC"
+     },
+     {
+      "name": "Michal de Beer",
+      "firm": "Dolby Family Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Nare Janvelyan",
+      "firm": "Voyager Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Chida Khatua",
+      "firm": "TempoDyn Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Erin Kirton",
+      "firm": "VoLo Earth Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Mary Lee",
+      "firm": "Manifest Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Julia Yan",
+      "firm": "Prelude Ventures"
+     },
+     {
+      "name": "Mike Mettler",
+      "firm": "Roadrunner Capital",
+      "cancelled": true
+     }
+    ]
+   ],
+   "hiringTable": "H2"
+  },
+  {
+   "table": 4,
+   "name": "Nyquist Energy",
+   "founder": "Meiyin Liu",
+   "sector": "Climate & Energy",
+   "stage": "Prototype",
+   "web": "https://nyquistenergy.com",
+   "blurb": "Energy and grid infrastructure, building power systems for AI data centers.",
+   "hiring": "",
+   "schedule": [
+    [
+     {
+      "name": "Julia Yan",
+      "firm": "Prelude Ventures"
+     },
+     {
+      "name": "Michal de Beer",
+      "firm": "Dolby Family Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Erin Kirton",
+      "firm": "VoLo Earth Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Chida Khatua",
+      "firm": "TempoDyn Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Choong Sohn",
+      "firm": "Angulate Ventures"
+     },
+     {
+      "name": "Mike Mettler",
+      "firm": "Roadrunner Capital",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Nare Janvelyan",
+      "firm": "Voyager Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Rie Guerreschi",
+      "firm": "Mitsui Chemicals America"
+     }
+    ],
+    [
+     {
+      "name": "Cara Hu",
+      "firm": "Builders VC"
+     },
+     {
+      "name": "Mary Lee",
+      "firm": "Manifest Ventures"
+     }
+    ]
+   ],
+   "hiringTable": ""
+  },
+  {
+   "table": 5,
+   "name": "Dyco Systems",
+   "founder": "Aaron Kaufman",
+   "sector": "Climate & Energy",
+   "stage": "Early customer",
+   "web": "https://dycosystems.com",
+   "blurb": "Critical minerals and resource recovery.",
+   "hiring": "Electrochemical and chemical engineering",
+   "schedule": [
+    [
+     {
+      "name": "Dyllan Liu",
+      "firm": "Vectro Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Garrett Temple",
+      "firm": "Year Zero Ventures Group"
+     }
+    ],
+    [
+     {
+      "name": "Julia Yan",
+      "firm": "Prelude Ventures"
+     },
+     {
+      "name": "Rie Guerreschi",
+      "firm": "Mitsui Chemicals America"
+     }
+    ],
+    [
+     {
+      "name": "Aaron Pickard",
+      "firm": "MFV Partners"
+     },
+     {
+      "name": "Usua Amanam",
+      "firm": "Dolby Family Ventures",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Carly Anderson",
+      "firm": "Timescale Ventures"
+     },
+     {
+      "name": "Genevieve Hummer",
+      "firm": "Piva Capital"
+     }
+    ],
+    [
+     {
+      "name": "Ibrahim Noon",
+      "firm": "Forerunner Ventures"
+     },
+     {
+      "name": "MJ",
+      "firm": "Korea Investment Partners"
+     }
+    ]
+   ],
+   "hiringTable": "H11"
+  },
+  {
+   "table": 6,
+   "name": "Rhoic",
+   "founder": "Ashley Bernstein",
+   "sector": "Climate & Energy",
+   "stage": "Prototype",
+   "web": "https://www.rhoic.co",
+   "blurb": "An electric field chemical reactor for industrial decarbonization and advanced materials.",
+   "hiring": "",
+   "schedule": [
+    [
+     {
+      "name": "Carly Anderson",
+      "firm": "Timescale Ventures"
+     },
+     {
+      "name": "Mike Mettler",
+      "firm": "Roadrunner Capital",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Choong Sohn",
+      "firm": "Angulate Ventures"
+     },
+     {
+      "name": "Mary Lee",
+      "firm": "Manifest Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Erin Kirton",
+      "firm": "VoLo Earth Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Michal de Beer",
+      "firm": "Dolby Family Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Cara Hu",
+      "firm": "Builders VC"
+     },
+     {
+      "name": "Bivek Adhikari",
+      "firm": "AI Capital",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Nare Janvelyan",
+      "firm": "Voyager Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Rie Guerreschi",
+      "firm": "Mitsui Chemicals America"
+     }
+    ]
+   ],
+   "hiringTable": ""
+  },
+  {
+   "table": 7,
+   "name": "Herl Tech",
+   "founder": "Michael McNeely",
+   "sector": "Climate & Energy",
+   "stage": "Ideation",
+   "web": "https://herl.tech",
+   "blurb": "Nuclear hydrogen.",
+   "hiring": "Radiochemistry and materials science interns or part time for equity, plus help with DARPA grants",
+   "schedule": [
+    [
+     {
+      "name": "Kristen Wang",
+      "firm": "EuReality Capital"
+     }
+    ],
+    [
+     {
+      "name": "Erik Knall",
+      "firm": "Azolla Ventures"
+     },
+     {
+      "name": "Usua Amanam",
+      "firm": "Dolby Family Ventures",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "John Ahrens",
+      "firm": "Overlap Holdings",
+      "cancelled": true
+     },
+     {
+      "name": "Dyllan Liu",
+      "firm": "Vectro Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Julia Yan",
+      "firm": "Prelude Ventures",
+      "new": true
+     }
+    ],
+    [
+     {
+      "name": "August Fern",
+      "firm": "Adapt [us] Capital"
+     },
+     {
+      "name": "Chida Khatua",
+      "firm": "TempoDyn Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Emilie Mazzacurati",
+      "firm": "Tailwind Futures",
+      "cancelled": true
+     },
+     {
+      "name": "Genevieve Hummer",
+      "firm": "Piva Capital"
+     }
+    ]
+   ],
+   "hiringTable": "H4"
+  },
+  {
+   "table": 8,
+   "name": "Baltic Jungle Lab",
+   "founder": "Sandra Zalas",
+   "sector": "Climate & Energy",
+   "stage": "Prototype",
+   "web": "",
+   "blurb": "Optical and microfluidic sensing with computer vision for wastewater. Advised by Prof. Manu Prakash's lab at Stanford, and moving toward industrial pilots.",
+   "hiring": "CTO or founding ML, computer vision or research engineer, plus hardware and environmental engineering collaborators",
+   "schedule": [
+    [
+     {
+      "name": "August Fern",
+      "firm": "Adapt [us] Capital"
+     },
+     {
+      "name": "Gordon Shi",
+      "firm": "Thusly Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Emilie Mazzacurati",
+      "firm": "Tailwind Futures",
+      "cancelled": true
+     },
+     {
+      "name": "Ibrahim Noon",
+      "firm": "Forerunner Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Erik Knall",
+      "firm": "Azolla Ventures"
+     },
+     {
+      "name": "Kristen Wang",
+      "firm": "EuReality Capital"
+     }
+    ],
+    [
+     {
+      "name": "Hemang Kapasi",
+      "firm": "xcel MD"
+     },
+     {
+      "name": "Aaron Pickard",
+      "firm": "MFV Partners"
+     }
+    ],
+    [
+     {
+      "name": "Lauren Tannhauser",
+      "firm": "PsyMed / Kaleida / Jumpspace"
+     },
+     {
+      "name": "John Ahrens",
+      "firm": "Overlap Holdings",
+      "cancelled": true
+     }
+    ]
+   ],
+   "hiringTable": "H5"
+  },
+  {
+   "table": 9,
+   "name": "Raizon",
+   "founder": "Jessica Li",
+   "sector": "Climate & Energy",
+   "stage": "Ideation",
+   "web": "",
+   "blurb": "Ag tech robotics and sensing.",
+   "hiring": "",
+   "schedule": [
+    [
+     {
+      "name": "John Ahrens",
+      "firm": "Overlap Holdings",
+      "cancelled": true
+     },
+     {
+      "name": "Usua Amanam",
+      "firm": "Dolby Family Ventures",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "August Fern",
+      "firm": "Adapt [us] Capital"
+     },
+     {
+      "name": "Steven Horowitz",
+      "firm": "EWOR"
+     }
+    ],
+    [
+     {
+      "name": "Emilie Mazzacurati",
+      "firm": "Tailwind Futures",
+      "cancelled": true
+     },
+     {
+      "name": "Genevieve Hummer",
+      "firm": "Piva Capital"
+     }
+    ],
+    [
+     {
+      "name": "Dyllan Liu",
+      "firm": "Vectro Ventures",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Erik Knall",
+      "firm": "Azolla Ventures"
+     }
+    ]
+   ],
+   "hiringTable": "",
+   "cancelled": true
+  },
+  {
+   "table": 10,
+   "name": "NC2",
+   "founder": "Alexander Nesiah",
+   "sector": "Climate & Energy",
+   "stage": "Ideation",
+   "web": "",
+   "blurb": "Circular production of food and other life essentials, for use on earth and in space.",
+   "hiring": "",
+   "schedule": [
+    [
+     {
+      "name": "Erik Knall",
+      "firm": "Azolla Ventures"
+     },
+     {
+      "name": "Genevieve Hummer",
+      "firm": "Piva Capital"
+     }
+    ],
+    [
+     {
+      "name": "John Ahrens",
+      "firm": "Overlap Holdings",
+      "cancelled": true
+     },
+     {
+      "name": "Dyllan Liu",
+      "firm": "Vectro Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Carly Anderson",
+      "firm": "Timescale Ventures",
+      "new": true
+     }
+    ],
+    [
+     {
+      "name": "Mihir Pershad",
+      "firm": "Ayuh Ventures"
+     },
+     {
+      "name": "Gordon Shi",
+      "firm": "Thusly Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Emilie Mazzacurati",
+      "firm": "Tailwind Futures",
+      "cancelled": true
+     },
+     {
+      "name": "Steven Horowitz",
+      "firm": "EWOR"
+     }
+    ],
+    [
+     {
+      "name": "August Fern",
+      "firm": "Adapt [us] Capital"
+     },
+     {
+      "name": "Kristen Wang",
+      "firm": "EuReality Capital"
+     }
+    ]
+   ],
+   "hiringTable": ""
+  },
+  {
+   "table": 11,
+   "name": "Saro Energy",
+   "founder": "Rohith",
+   "sector": "Climate & Energy",
+   "stage": "Early customer",
+   "web": "https://saro.energy",
+   "blurb": "AI-powered hardware and software that helps commercial buildings, industrial facilities and data centers reduce energy use and improve reliability.",
+   "hiring": "Business Development and Enterprise Sales Intern or Associate",
+   "schedule": [
+    [
+     {
+      "name": "Emilie Mazzacurati",
+      "firm": "Tailwind Futures",
+      "cancelled": true
+     },
+     {
+      "name": "Ibrahim Noon",
+      "firm": "Forerunner Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Aaron Pickard",
+      "firm": "MFV Partners"
+     },
+     {
+      "name": "Genevieve Hummer",
+      "firm": "Piva Capital"
+     }
+    ],
+    [
+     {
+      "name": "August Fern",
+      "firm": "Adapt [us] Capital"
+     },
+     {
+      "name": "Steven Horowitz",
+      "firm": "EWOR"
+     }
+    ],
+    [
+     {
+      "name": "John Ahrens",
+      "firm": "Overlap Holdings",
+      "cancelled": true
+     },
+     {
+      "name": "Gordon Shi",
+      "firm": "Thusly Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Carly Anderson",
+      "firm": "Timescale Ventures"
+     },
+     {
+      "name": "Dyllan Liu",
+      "firm": "Vectro Ventures",
+      "cancelled": true
+     }
+    ]
+   ],
+   "hiringTable": "H9"
+  },
+  {
+   "table": 12,
+   "name": "Ai Linear",
+   "founder": "Ali Tasdighi Far",
+   "sector": "Hardware & Physical AI",
+   "stage": "Prototype",
+   "web": "https://ailinear.com",
+   "blurb": "Tiny, ultra low power AI chips that sit at the sensor, so motors, robots, drones and medical devices can run AI locally without the cloud. UC Berkeley roots, 33 US patents and SBIR funding.",
+   "hiring": "",
+   "schedule": [
+    [
+     {
+      "name": "Aaron Pickard",
+      "firm": "MFV Partners"
+     },
+     {
+      "name": "Shubha Ukhade",
+      "firm": "VentureAide Capital",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Kristen Wang",
+      "firm": "EuReality Capital"
+     },
+     {
+      "name": "Garrett Temple",
+      "firm": "Year Zero Ventures Group"
+     }
+    ],
+    [
+     {
+      "name": "Ibrahim Noon",
+      "firm": "Forerunner Ventures"
+     },
+     {
+      "name": "Madison Zhan",
+      "firm": "AFORE Capital & Entrepreneurs First"
+     }
+    ],
+    [
+     {
+      "name": "MJ",
+      "firm": "Korea Investment Partners"
+     },
+     {
+      "name": "Jerry Bellman",
+      "firm": "California Innovation Fund"
+     }
+    ],
+    [
+     {
+      "name": "Usua Amanam",
+      "firm": "Dolby Family Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Cami Orozco Gil",
+      "firm": "Ubiquity",
+      "cancelled": true
+     },
+     {
+      "name": "Steven Horowitz",
+      "firm": "EWOR",
+      "new": true
+     }
+    ]
+   ],
+   "hiringTable": ""
+  },
+  {
+   "table": 13,
+   "name": "Bimotal",
+   "founder": "Peter Pang",
+   "sector": "Hardware & Physical AI",
+   "stage": "Early customer",
+   "web": "https://bimotal.com",
+   "blurb": "High torque motors for robotics and physical AI.",
+   "hiring": "",
+   "schedule": [
+    [
+     {
+      "name": "MJ",
+      "firm": "Korea Investment Partners"
+     },
+     {
+      "name": "Jerry Bellman",
+      "firm": "California Innovation Fund"
+     }
+    ],
+    [
+     {
+      "name": "Madison Zhan",
+      "firm": "AFORE Capital & Entrepreneurs First"
+     },
+     {
+      "name": "Shubha Ukhade",
+      "firm": "VentureAide Capital",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Cami Orozco Gil",
+      "firm": "Ubiquity",
+      "cancelled": true
+     },
+     {
+      "name": "Garrett Temple",
+      "firm": "Year Zero Ventures Group"
+     }
+    ],
+    [
+     {
+      "name": "Ibrahim Noon",
+      "firm": "Forerunner Ventures"
+     },
+     {
+      "name": "Maria Rutkowska",
+      "firm": "Collide Capital"
+     }
+    ],
+    [
+     {
+      "name": "Aaron Pickard",
+      "firm": "MFV Partners"
+     },
+     {
+      "name": "Hye Jin Park",
+      "firm": "UC Berkeley Haas"
+     }
+    ]
+   ],
+   "hiringTable": ""
+  },
+  {
+   "table": 14,
+   "name": "NV Qubits",
+   "founder": "Rajeev Kumar Nambiyar",
+   "sector": "Hardware & Physical AI",
+   "stage": "Prototype",
+   "web": "https://nv-qubits.lovable.app",
+   "blurb": "Quantum sensing with solid state qubits in diamond.",
+   "hiring": "",
+   "schedule": [
+    [
+     {
+      "name": "Madison Zhan",
+      "firm": "AFORE Capital & Entrepreneurs First"
+     },
+     {
+      "name": "Uday Sandhu",
+      "firm": "AIC"
+     }
+    ],
+    [
+     {
+      "name": "MJ",
+      "firm": "Korea Investment Partners"
+     },
+     {
+      "name": "Ani Vadavatha",
+      "firm": "AB Plus Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Jerry Bellman",
+      "firm": "California Innovation Fund"
+     },
+     {
+      "name": "Hye Jin Park",
+      "firm": "UC Berkeley Haas"
+     }
+    ],
+    [
+     {
+      "name": "Cami Orozco Gil",
+      "firm": "Ubiquity",
+      "cancelled": true
+     },
+     {
+      "name": "Garrett Temple",
+      "firm": "Year Zero Ventures Group"
+     }
+    ],
+    [
+     {
+      "name": "Maria Rutkowska",
+      "firm": "Collide Capital"
+     },
+     {
+      "name": "Shubha Ukhade",
+      "firm": "VentureAide Capital",
+      "cancelled": true
+     }
+    ]
+   ],
+   "hiringTable": ""
+  },
+  {
+   "table": 16,
+   "name": "Assemble Robotics",
+   "founder": "Kashyap Khaitan",
+   "sector": "Hardware & Physical AI",
+   "stage": "Early customer",
+   "web": "https://assemble-robotics.com",
+   "blurb": "Robotics.",
+   "hiring": "Robotics stack: EE, firmware, systems, hardware, software, AI and data",
+   "schedule": [
+    [
+     {
+      "name": "Cami Orozco Gil",
+      "firm": "Ubiquity",
+      "cancelled": true
+     },
+     {
+      "name": "Ishtiaque Mohammad",
+      "firm": "Astra Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Jerry Bellman",
+      "firm": "California Innovation Fund"
+     },
+     {
+      "name": "Uday Sandhu",
+      "firm": "AIC"
+     }
+    ],
+    [
+     {
+      "name": "Maria Rutkowska",
+      "firm": "Collide Capital"
+     },
+     {
+      "name": "Ani Vadavatha",
+      "firm": "AB Plus Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Hye Jin Park",
+      "firm": "UC Berkeley Haas"
+     },
+     {
+      "name": "Shubha Ukhade",
+      "firm": "VentureAide Capital",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Madison Zhan",
+      "firm": "AFORE Capital & Entrepreneurs First"
+     }
+    ]
+   ],
+   "hiringTable": "H12"
+  },
+  {
+   "table": 17,
+   "name": "Noah Labs",
+   "founder": "Murat Isik",
+   "sector": "Hardware & Physical AI",
+   "stage": "Funded",
+   "web": "https://www.noahlabs.ai",
+   "blurb": "An applied research lab automating software engineering inside classified and regulated environments, including legacy software modernization and auditable AI workflows for defense.",
+   "hiring": "LLM Research Engineer, GovTech Business Development Associate",
+   "schedule": [
+    [
+     {
+      "name": "Hye Jin Park",
+      "firm": "UC Berkeley Haas"
+     },
+     {
+      "name": "Robert Allen",
+      "firm": "Orogenyx",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Maria Rutkowska",
+      "firm": "Collide Capital"
+     }
+    ],
+    [
+     {
+      "name": "Ishtiaque Mohammad",
+      "firm": "Astra Ventures"
+     },
+     {
+      "name": "Tae Kyu Lee",
+      "firm": "Blissvine Ventures / El Fuego",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Ani Vadavatha",
+      "firm": "AB Plus Ventures"
+     },
+     {
+      "name": "Lisa Wolff",
+      "firm": "Macroscopic Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Uday Sandhu",
+      "firm": "AIC"
+     },
+     {
+      "name": "Andrea Li",
+      "firm": "Li Family Office",
+      "cancelled": true
+     }
+    ]
+   ],
+   "hiringTable": "H7"
+  },
+  {
+   "table": 18,
+   "name": "Fuse Dynamics",
+   "founder": "Ilan Bruski",
+   "sector": "Hardware & Physical AI",
+   "stage": "Prototype",
+   "web": "https://fusedynamics.ai",
+   "blurb": "Aerospace and physical AI, including AI-driven aerospace simulation.",
+   "hiring": "",
+   "schedule": [
+    [
+     {
+      "name": "Ani Vadavatha",
+      "firm": "AB Plus Ventures"
+     },
+     {
+      "name": "Asher Siddiqui",
+      "firm": "Song United"
+     }
+    ],
+    [
+     {
+      "name": "Tae Kyu Lee",
+      "firm": "Blissvine Ventures / El Fuego",
+      "cancelled": true
+     },
+     {
+      "name": "Lisa Wolff",
+      "firm": "Macroscopic Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Uday Sandhu",
+      "firm": "AIC"
+     }
+    ],
+    [
+     {
+      "name": "Andrea Li",
+      "firm": "Li Family Office",
+      "cancelled": true
+     },
+     {
+      "name": "Robert Allen",
+      "firm": "Orogenyx",
+      "cancelled": true
+     },
+     {
+      "name": "Choong Sohn",
+      "firm": "Angulate Ventures",
+      "new": true
+     }
+    ],
+    [
+     {
+      "name": "Ishtiaque Mohammad",
+      "firm": "Astra Ventures"
+     },
+     {
+      "name": "Chida Khatua",
+      "firm": "TempoDyn Ventures"
+     }
+    ]
+   ],
+   "hiringTable": ""
+  },
+  {
+   "table": 19,
+   "name": "Solio Bio",
+   "founder": "Nathan Paumier",
+   "sector": "Bio & Neuro",
+   "stage": "Prototype",
+   "web": "https://soliobio.com",
+   "blurb": "Synthetic biology and biomanufacturing for skin longevity.",
+   "hiring": "Analytical chemist, strain engineer, downstream purification, marketing or community (full time from early 2027, interns summer 2027)",
+   "schedule": [
+    [
+     {
+      "name": "Lauren Tannhauser",
+      "firm": "PsyMed / Kaleida / Jumpspace"
+     },
+     {
+      "name": "Tae Kyu Lee",
+      "firm": "Blissvine Ventures / El Fuego",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Hemang Kapasi",
+      "firm": "xcel MD"
+     },
+     {
+      "name": "Andrea Li",
+      "firm": "Li Family Office",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Rie Guerreschi",
+      "firm": "Mitsui Chemicals America"
+     },
+     {
+      "name": "Lisa Wolff",
+      "firm": "Macroscopic Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Ishtiaque Mohammad",
+      "firm": "Astra Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Mihir Pershad",
+      "firm": "Ayuh Ventures"
+     },
+     {
+      "name": "Bivek Adhikari",
+      "firm": "AI Capital",
+      "cancelled": true
+     }
+    ]
+   ],
+   "hiringTable": "H6"
+  },
+  {
+   "table": 20,
+   "name": "Nocturnal Neuro",
+   "founder": "Ishika Agrawal",
+   "sector": "Bio & Neuro",
+   "stage": "Early customer",
+   "web": "https://www.nocturnalneuro.com",
+   "blurb": "An EEG headset with machine learning for bipolar disorder and depression.",
+   "hiring": "ML Founding Engineer (part time, MS required, PhD preferred). EEG Technician x2 (spring or summer internship).",
+   "schedule": [
+    [
+     {
+      "name": "Mihir Pershad",
+      "firm": "Ayuh Ventures"
+     },
+     {
+      "name": "Andrea Li",
+      "firm": "Li Family Office",
+      "cancelled": true
+     },
+     {
+      "name": "Steven Horowitz",
+      "firm": "EWOR",
+      "new": true
+     }
+    ],
+    [
+     {
+      "name": "Bivek Adhikari",
+      "firm": "AI Capital",
+      "cancelled": true
+     },
+     {
+      "name": "Ishtiaque Mohammad",
+      "firm": "Astra Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Lauren Tannhauser",
+      "firm": "PsyMed / Kaleida / Jumpspace"
+     },
+     {
+      "name": "Robert Allen",
+      "firm": "Orogenyx",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Usua Amanam",
+      "firm": "Dolby Family Ventures",
+      "cancelled": true
+     },
+     {
+      "name": "Tae Kyu Lee",
+      "firm": "Blissvine Ventures / El Fuego",
+      "cancelled": true
+     },
+     {
+      "name": "Kristen Wang",
+      "firm": "EuReality Capital",
+      "new": true
+     }
+    ],
+    [
+     {
+      "name": "Hemang Kapasi",
+      "firm": "xcel MD"
+     },
+     {
+      "name": "Lisa Wolff",
+      "firm": "Macroscopic Ventures"
+     }
+    ]
+   ],
+   "hiringTable": "H10"
+  },
+  {
+   "table": 21,
+   "name": "Neuraffica",
+   "founder": "Marta Gajowa",
+   "sector": "Bio & Neuro",
+   "stage": "Ideation",
+   "web": "https://neuraffica.com",
+   "blurb": "Neurotech built on living neurons.",
+   "hiring": "Computational Neuroscientist, ML Training Engineer (interns or part time)",
+   "schedule": [
+    [
+     {
+      "name": "Bivek Adhikari",
+      "firm": "AI Capital",
+      "cancelled": true
+     },
+     {
+      "name": "Lisa Wolff",
+      "firm": "Macroscopic Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Lauren Tannhauser",
+      "firm": "PsyMed / Kaleida / Jumpspace"
+     },
+     {
+      "name": "Robert Allen",
+      "firm": "Orogenyx",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Hemang Kapasi",
+      "firm": "xcel MD"
+     },
+     {
+      "name": "Andrea Li",
+      "firm": "Li Family Office",
+      "cancelled": true
+     }
+    ],
+    [
+     {
+      "name": "Mihir Pershad",
+      "firm": "Ayuh Ventures"
+     },
+     {
+      "name": "Asher Siddiqui",
+      "firm": "Song United"
+     }
+    ],
+    [
+     {
+      "name": "Tae Kyu Lee",
+      "firm": "Blissvine Ventures / El Fuego",
+      "cancelled": true
+     },
+     {
+      "name": "Gordon Shi",
+      "firm": "Thusly Ventures",
+      "new": true
+     }
+    ]
+   ],
+   "hiringTable": "H8"
+  },
+  {
+   "table": 22,
+   "name": "Umbra Bio",
+   "founder": "Paul Donohoue",
+   "sector": "Bio & Neuro",
+   "stage": "Early customer",
+   "web": "https://umbrabio.com",
+   "blurb": "A protein design platform that builds the therapeutic function into the design itself, so molecules do more than bind their target.",
+   "hiring": "",
+   "schedule": [
+    [
+     {
+      "name": "Hemang Kapasi",
+      "firm": "xcel MD"
+     },
+     {
+      "name": "Chida Khatua",
+      "firm": "TempoDyn Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Mihir Pershad",
+      "firm": "Ayuh Ventures"
+     },
+     {
+      "name": "Gordon Shi",
+      "firm": "Thusly Ventures"
+     }
+    ],
+    [
+     {
+      "name": "Bivek Adhikari",
+      "firm": "AI Capital",
+      "cancelled": true
+     },
+     {
+      "name": "Asher Siddiqui",
+      "firm": "Song United"
+     }
+    ],
+    [
+     {
+      "name": "Lauren Tannhauser",
+      "firm": "PsyMed / Kaleida / Jumpspace"
+     }
+    ],
+    [
+     {
+      "name": "Robert Allen",
+      "firm": "Orogenyx",
+      "cancelled": true
+     },
+     {
+      "name": "Garrett Temple",
+      "firm": "Year Zero Ventures Group"
+     }
+    ]
+   ],
+   "hiringTable": ""
+  },
+  {
+   "table": null,
+   "name": "Eight Sleep",
+   "founder": "Sam Kang",
+   "sector": "Hiring only",
+   "stage": "Funded",
+   "web": "https://eightsleep.com",
+   "blurb": "Robotics for sleep: a bed with sensors and actuation that works in a closed loop to improve sleep and health.",
+   "hiring": "Senior or Staff Mechanical Engineer, Senior Electrical Engineer, Thermal Engineer (full time)",
+   "schedule": [],
+   "hiringTable": "H1"
+  },
+  {
+   "table": null,
+   "name": "Hadamard",
+   "founder": "Sophia Mejjati",
+   "sector": "Hiring only",
+   "stage": "Funded",
+   "web": "https://hadamardlabs.com",
+   "blurb": "Quantum technologies and life sciences.",
+   "hiring": "Technical roles in quantum technology, AI and life sciences",
+   "schedule": [],
+   "hiringTable": "H13"
+  },
+  {
+   "table": 15,
+   "name": "Xpyq",
+   "founder": "Dilip Vasudevan and Aravind Pochiraju",
+   "sector": "Hardware & Physical AI",
+   "stage": "",
+   "web": "https://www.xpyq.ai",
+   "blurb": "Xpyq (xpyq.ai). Joined after Bivouac Industries withdrew.",
+   "hiring": "",
+   "hiringTable": "",
+   "schedule": [
+    [
+     {
+      "name": "Maria Rutkowska",
+      "firm": "Collide Capital"
+     }
+    ],
+    [
+     {
+      "name": "Cami Orozco Gil",
+      "firm": "Ubiquity",
+      "cancelled": true
+     },
+     {
+      "name": "Hye Jin Park",
+      "firm": "UC Berkeley Haas"
+     }
+    ],
+    [
+     {
+      "name": "MJ",
+      "firm": "Korea Investment Partners"
+     }
+    ],
+    [
+     {
+      "name": "Madison Zhan",
+      "firm": "AFORE Capital & Entrepreneurs First"
+     },
+     {
+      "name": "Uday Sandhu",
+      "firm": "AIC"
+     }
+    ],
+    [
+     {
+      "name": "Jerry Bellman",
+      "firm": "California Innovation Fund"
+     },
+     {
+      "name": "Ani Vadavatha",
+      "firm": "AB Plus Ventures"
+     }
+    ]
+   ]
+  }
+ ]
+}
