@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Deep Tech Summit Guide</title>
+<meta name="theme-color" content="#003262">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Summit Guide">
+<style>
+:root{
+  --blue:#003262; --blue2:#0b4a8b; --gold:#FDB515; --gold-soft:#FFF4D6;
+  --bg:#F4F5F7; --card:#FFFFFF; --ink:#141C26; --muted:#5B6675; --line:#E3E6EB;
+  --a:#1E7B4F; --a-soft:#E3F3EA; --b:#B5651D; --b-soft:#FCEEDD; --c:#6D4BB8; --c-soft:#EEE8FA; --h:#1F3A5F; --h-soft:#E4EAF2;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0E141B; --card:#17202B; --ink:#E8ECF1; --muted:#9AA6B4; --line:#273342; --gold-soft:#3A2F12;
+    --a-soft:#173326; --b-soft:#3A2814; --c-soft:#2A2142; --h-soft:#1C2A3D; --h:#9FB7DA; --b:#E39A55; --c:#B39AF0; --a:#5BC48E;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-text-size-adjust:100%}
+button{font-family:inherit}
+.wrap{max-width:640px;margin:0 auto;padding:0 16px 100px}
+.hidden{display:none!important}
+.screen{min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding:28px 20px;max-width:520px;margin:0 auto}
+.brand{color:var(--gold);font-weight:800;font-size:12px;letter-spacing:.08em}
+.blue{background:var(--blue)}
+.blue .screen h1,.blue .screen p{color:#fff}
+.screen h1{font-size:26px;line-height:1.2;margin:8px 0 8px}
+.screen p{color:var(--muted);font-size:15px;line-height:1.45;margin:0 0 18px}
+.input{width:100%;font-size:17px;padding:14px 16px;border-radius:14px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+.btn{display:inline-flex;align-items:center;justify-content:center;border:0;border-radius:14px;padding:14px 18px;font-size:16px;font-weight:650;cursor:pointer;text-decoration:none}
+.btn.full{width:100%}
+.btn.pri{background:var(--blue);color:#fff}
+.blue .btn.pri{background:var(--gold);color:#1a1a1a}
+.btn.ghost{background:transparent;color:var(--muted);font-weight:500;font-size:14px;padding:10px}
+.err{color:#E5574A;font-size:13px;min-height:20px;margin:6px 0}
+.pick{display:flex;align-items:center;gap:12px;padding:12px;border-radius:14px;background:var(--card);border:1px solid var(--line);margin-top:8px;cursor:pointer;width:100%;text-align:left;color:var(--ink)}
+.av{flex:0 0 40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;background:var(--h-soft);color:var(--h)}
+.goals{display:grid;grid-template-columns:1fr;gap:10px;margin-bottom:18px}
+.goal{padding:16px;border-radius:14px;border:2px solid var(--line);background:var(--card);color:var(--ink);font-size:16px;font-weight:600;text-align:left;cursor:pointer;display:flex;justify-content:space-between;align-items:center}
+.goal.on{border-color:var(--blue);background:var(--h-soft)}
+.goal .ck{width:22px;height:22px;border-radius:50%;border:2px solid var(--line);flex:0 0 22px}
+.goal.on .ck{background:var(--blue);border-color:var(--blue);box-shadow:inset 0 0 0 4px var(--card)}
+header{background:var(--blue);color:#fff;padding:18px 16px 18px}
+header .inner{max-width:640px;margin:0 auto}
+header .hi{font-size:24px;font-weight:750;margin-top:4px}
+header .sub{opacity:.85;font-size:14px;margin-top:2px}
+nav{position:fixed;bottom:0;left:0;right:0;background:var(--card);border-top:1px solid var(--line);z-index:5}
+nav .in{display:flex;max-width:640px;margin:0 auto}
+nav button{flex:1;border:0;background:none;padding:12px 4px 18px;font-size:13px;color:var(--muted);cursor:pointer;font-weight:600}
+nav button.on{color:var(--blue)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) nav button.on{color:var(--gold)}}
+h2{font-size:17px;margin:24px 0 10px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin:10px 0}
+.next{background:var(--gold-soft);border-color:var(--gold)}
+.next .lbl{font-size:12px;font-weight:800;letter-spacing:.06em;color:var(--muted)}
+.next .big{font-size:20px;font-weight:750;margin:4px 0 2px}
+.muted{color:var(--muted);font-size:14px}
+.sug .top{display:flex;gap:12px;align-items:flex-start;cursor:pointer}
+.sug .nm{font-weight:700;font-size:16px}
+.sug .co{color:var(--muted);font-size:14px;margin-top:2px}
+.why{font-size:14px;line-height:1.45;margin:10px 0 0}
+.where{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:650;margin-top:10px;padding:6px 10px;border-radius:999px;background:var(--h-soft);color:var(--h)}
+.fb{display:flex;gap:8px;margin-top:12px;align-items:center}
+.fb button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:8px 14px;font-size:14px;cursor:pointer}
+.fb button.on{background:var(--blue);color:#fff;border-color:var(--blue)}
+.fb .q{font-size:13px;color:var(--muted);margin-right:auto}
+.tag{display:inline-block;font-size:11px;font-weight:700;padding:3px 8px;border-radius:999px;margin-right:6px;vertical-align:middle;background:var(--line);color:var(--muted)}
+.t-Founder,.t-Hiring{background:var(--a-soft);color:var(--a)}
+.t-Investor{background:var(--h-soft);color:var(--h)}
+.search{margin-top:16px}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:12px 0 4px;scrollbar-width:none}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:8px 13px;font-size:13px;white-space:nowrap;cursor:pointer}
+.chip.on{background:var(--blue);color:#fff;border-color:var(--blue)}
+.count{color:var(--muted);font-size:13px;margin:8px 2px}
+.person{display:flex;gap:12px;align-items:center;cursor:pointer}
+.person .nm{font-weight:650}
+.person .meta{color:var(--muted);font-size:13px;margin-top:3px}
+.tl .slot{display:flex;gap:14px;padding:11px 0;border-bottom:1px solid var(--line)}
+.tl .slot:last-child{border-bottom:0}
+.tl .time{flex:0 0 66px;font-weight:700;font-size:14px}
+.tl .what{font-size:14px;line-height:1.4}
+.tl .slot.now{background:var(--gold-soft);margin:0 -16px;padding:11px 16px}
+.map{overflow-x:auto;padding-bottom:6px}
+.room{position:relative;width:640px;border:2px solid var(--ink);border-top:5px solid #B4683B;border-radius:6px;padding:10px 10px 12px;background:var(--card)}
+.lm{display:flex;gap:6px;margin-bottom:12px}
+.lm span{font-size:10px;padding:5px 8px;border-radius:6px;background:var(--line);color:var(--muted);font-weight:650}
+.pods{display:grid;grid-template-columns:repeat(11,1fr) 34px;gap:5px;align-items:center}
+.pod{height:40px;border-radius:7px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px;cursor:pointer;border:1.5px solid transparent}
+.zA{background:var(--a-soft);color:var(--a);border-color:var(--a)}
+.zB{background:var(--b-soft);color:var(--b);border-color:var(--b)}
+.zC{background:var(--c-soft);color:var(--c);border-color:var(--c)}
+.pod.empty{opacity:.35;cursor:default}
+.pod.me{outline:3px solid var(--gold);outline-offset:2px}
+.hire{height:34px;border-radius:6px;background:var(--h);color:#fff;font-size:11px;font-weight:800;display:flex;align-items:center;justify-content:center;cursor:pointer}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .hire{color:#0E141B}}
+.hrow{display:flex;justify-content:space-around;margin-top:16px;padding-right:40px}
+.hrow .hire{width:42px}
+.doors{display:flex;justify-content:space-between;font-size:11px;color:var(--blue2);font-weight:700;margin-top:6px;width:640px}
+.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:10px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+.st .head{display:flex;justify-content:space-between;gap:10px}
+.st .name{font-weight:750;font-size:16px}
+.podtag{flex:0 0 auto;background:var(--blue);color:#fff;border-radius:10px;padding:6px 10px;text-align:center;font-weight:800;font-size:16px;line-height:1}
+.podtag small{display:block;font-size:9px;font-weight:700;opacity:.8;letter-spacing:.06em}
+.blurb{font-size:14px;line-height:1.45;margin:8px 0}
+.hirebox{font-size:13px;background:var(--h-soft);border-radius:10px;padding:9px 11px;margin-top:8px;line-height:1.4}
+a.link{color:var(--blue2);font-size:13px}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) a.link{color:#8FB8F0}}
+.sheet{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;z-index:10;align-items:flex-end;justify-content:center}
+.sheet.on{display:flex}
+.pane{background:var(--card);width:100%;max-width:640px;border-radius:20px 20px 0 0;padding:20px 16px 30px;max-height:86vh;overflow:auto}
+.x{float:right;border:0;background:var(--line);color:var(--ink);border-radius:999px;width:34px;height:34px;font-size:15px;cursor:pointer}
+.kv{font-size:14px;line-height:1.45;margin-top:10px}
+.kv b{display:block;font-size:12px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase;margin-bottom:2px}
+.toast{position:fixed;left:50%;bottom:86px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20;max-width:90vw;text-align:center}
+.toast.on{opacity:1}
+.test{font-size:12px;color:var(--muted);text-align:center;margin:18px 0 0}
+</style>
+</head>
+<body>
+
+<!-- Step 1: code -->
+<div id="s-code" class="blue hidden">
+  <div class="screen">
+    <div class="brand">UC BERKELEY · TUESDAY, OCT 13</div>
+    <h1>Deep Tech Matchmaking Summit</h1>
+    <p>Enter the event code from your Luma email.</p>
+    <input id="code" class="input" placeholder="Event code" autocomplete="off" aria-label="Event code">
+    <div class="err" id="err"></div>
+    <button class="btn pri full" id="go-code">Continue</button>
+    
+  </div>
+</div>
+
+<!-- Step 2: who -->
+<div id="s-who" class="hidden">
+  <div class="screen" style="justify-content:flex-start;padding-top:48px">
+    <div class="brand" style="color:var(--blue2)">STEP 1 OF 2</div>
+    <h1>Who are you?</h1>
+    <p>Type your name so we can show your schedule and the people worth meeting.</p>
+    <input id="who" class="input" placeholder="Your name" autocomplete="off" aria-label="Your name">
+    <div id="who-list"></div>
+  </div>
+</div>
+
+<!-- Step 3: goals -->
+<div id="s-goals" class="hidden">
+  <div class="screen" style="justify-content:flex-start;padding-top:48px">
+    <div class="brand" style="color:var(--blue2)">STEP 2 OF 2</div>
+    <h1>What do you want from today?</h1>
+    <p>Pick up to two. We will suggest three people for you.</p>
+    <div class="goals" id="goal-list"></div>
+    <button class="btn pri full" id="go-goals">Show my matches</button>
+  </div>
+</div>
+
+<!-- Main app -->
+<div id="s-app" class="hidden">
+  <header><div class="inner">
+    <div class="brand">TUE OCT 13 · 2168 SHATTUCK AVE, 2ND FLOOR</div>
+    <div class="hi" id="hi"></div>
+    <div class="sub" id="hisub"></div>
+  </div></header>
+  <div class="wrap"><main id="view"></main><div class="test" id="stamp"></div></div>
+  <nav><div class="in">
+    <button data-v="you" class="on">For you</button>
+    <button data-v="people">People</button>
+    <button data-v="event">Event</button>
+  </div></nav>
+</div>
+
+<div id="sheet" class="sheet"><div class="pane" id="pane"></div></div>
+<div id="toast" class="toast"></div>
+
+<script src="config.js"></script>
+<script>
+let DATA={people:[],startups:[]};
+const ROUNDS = ["4:50","5:04","5:18","5:32","5:46"];
+const GOALS = {
+  invest:{label:"Meet investors"},
+  startups:{label:"Meet startups"},
+  hire:{label:"Hire talent"},
+  job:{label:"Find a job or internship"},
+  cofounder:{label:"Find a co-founder"},
+  network:{label:"Meet people in my field"}
+};
+const SECTOR_NAME={climate:"climate and energy",hardware:"hardware and physical AI",bio:"bio and neuro",ai:"AI and software"};
+const S={me:null,goals:[],view:"you",q:"",role:"All",fb:{},shown:3,log:[]};
+let P=[],byStartup={};
+function setData(d){DATA=d;P=d.people;byStartup=Object.fromEntries(d.startups.map(s=>[s.name,s]))}
+const store={get(k){try{return JSON.parse(localStorage.getItem("dt_"+k))}catch(e){return null}},set(k,v){try{localStorage.setItem("dt_"+k,JSON.stringify(v))}catch(e){}}};
+const esc=t=>String(t??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const ini=n=>n.split(/\s+/).filter(Boolean).slice(0,2).map(w=>w[0]).join("").toUpperCase();
+const first=n=>n.split(/\s+/)[0];
+const $=id=>document.getElementById(id);
+function show(id){["s-code","s-who","s-goals","s-app"].forEach(x=>$(x).classList.toggle("hidden",x!==id));window.scrollTo(0,0)}
+function toast(t){const e=$("toast");e.textContent=t;e.classList.add("on");clearTimeout(e._t);e._t=setTimeout(()=>e.classList.remove("on"),2200)}
+
+/* step 1 */
+function unlock(){if($("code").value.trim().toUpperCase()===String(CONFIG.code).toUpperCase()){store.set("unlocked",true);show("s-who");$("who").focus()}else $("err").textContent="That code does not match. Check your Luma email."}
+$("go-code").onclick=unlock;$("code").onkeydown=e=>{if(e.key==="Enter")unlock()};
+
+/* step 2 */
+$("who").oninput=()=>{
+  const t=$("who").value.trim().toLowerCase();
+  const list=t.length<2?[]:P.map((p,i)=>({p,i})).filter(x=>x.p.name.toLowerCase().includes(t)).slice(0,6);
+  $("who-list").innerHTML=list.map(x=>`<button class="pick" data-i="${x.i}"><span class="av">${esc(ini(x.p.name))}</span><span><b>${esc(x.p.name)}</b><br><span class="muted">${esc([x.p.role,x.p.company].filter(Boolean).join(" · "))}</span></span></button>`).join("")
+   +(t.length>=2&&!list.length?`<p class="muted" style="margin-top:12px">No match yet. Try your first name only.</p>`:"");
+  $("who-list").querySelectorAll(".pick").forEach(b=>b.onclick=()=>{S.me=+b.dataset.i;store.set("me",P[S.me].name);S.goals=defaultGoals(P[S.me]);renderGoals();show("s-goals")});
+};
+function defaultGoals(p){
+  if(p.role==="Investor")return["startups"];
+  if(p.role==="Hiring")return["hire"];
+  if(p.role==="Founder")return p.hiring?["invest","hire"]:p.cofounder?["invest","cofounder"]:["invest"];
+  if(p.role==="Student")return["job"];
+  return["startups"];
+}
+/* step 3 */
+function renderGoals(){
+  $("goal-list").innerHTML=Object.entries(GOALS).map(([k,g])=>`<button class="goal ${S.goals.includes(k)?"on":""}" data-g="${k}">${g.label}<span class="ck"></span></button>`).join("");
+  $("goal-list").querySelectorAll(".goal").forEach(b=>b.onclick=()=>{const k=b.dataset.g;
+    if(S.goals.includes(k))S.goals=S.goals.filter(x=>x!==k);else{S.goals.push(k);if(S.goals.length>2)S.goals.shift()}renderGoals()});
+}
+$("go-goals").onclick=()=>{if(!S.goals.length)S.goals=["network"];S.shown=3;store.set("goals",S.goals);send({type:"goals",who:P[S.me].name,role:P[S.me].role,goals:S.goals.join(", ")});show("s-app");go("you")};
+
+/* matching */
+const ov=(a,b)=>(a||[]).filter(x=>(b||[]).includes(x)).length;
+function myRotation(me){
+  if(me.schedule)return new Set(me.schedule);
+  const s=me.startup&&byStartup[me.startup];
+  return new Set(s&&s.schedule?s.schedule.flat().map(x=>x.name):[]);
+}
+function whereIs(c){
+  const s=c.startup&&byStartup[c.startup];
+  if(s&&s.table)return `Pod ${s.table} until 6:00`+(s.hiringTable?`, then hiring table ${s.hiringTable}`:", then the mixer");
+  if(s&&s.hiringTable)return `Hiring table ${s.hiringTable} from 6:00`;
+  if(c.role==="Investor"&&c.schedule)return "In the pods until 6:00, then the mixer";
+  return "At the mixer from 6:00";
+}
+function score(me,c,g,rot){
+  const ms=me.secs||[];let sc=0,why="";
+  if(g==="invest"){
+    if(c.role!=="Investor")return null;
+    const o=ov(ms,c.secs);if(!o&&ms.length)return null;sc+=o*2+(c.secs.length===1&&o?3:0)+(me.stage&&c.stages.includes(me.stage)?2:0)+(c.why?1:0);
+    const focus=c.secs.length===1?SECTOR_NAME[c.secs[0]]:"deep tech broadly";
+    why=`Invests in ${focus}`+(c.check?`, checks of ${c.check.charAt(0).toLowerCase()+c.check.slice(1)}`:"")+"."+(c.why?` Here to: ${c.why.replace(/\.$/,"")}.`:"");
+  } else if(g==="startups"){
+    if(!c.startup||c.role==="Hiring")return null;
+    const s=byStartup[c.startup];if(!ov(ms,c.secs))return null;sc+=ov(ms,c.secs)*2+(me.stages&&me.stages.includes(c.stage)?2:0);
+    why=`${c.company}: ${s?s.blurb:""}`;
+  } else if(g==="hire"){
+    if(!["Student","Operator","Academia","Guest"].includes(c.role))return null;
+    const o=ov(me.hireKw,c.skills);sc+=o*3+ov(ms,c.secs);if(!o&&!ov(ms,c.secs))return null;
+    why=c.program?`${c.program}. Interested in ${c.interests||"deep tech"}.`:`${[c.title,c.company].filter(Boolean).join(", ")}.`;
+  } else if(g==="job"){
+    if(!c.hiring||c.hiring==="Roles to be shared")return null;
+    const o=ov(me.skills,c.hireKw);sc+=o*3+ov(ms,c.secs)+1;
+    why=`${c.company} is hiring: ${c.hiring}.`;
+  } else if(g==="cofounder"){
+    if(me.cofounder){ if(!["Student","Operator","Academia"].includes(c.role))return null;
+      const o=ov(me.cofKw,c.skills);sc+=o*3+ov(ms,c.secs);if(!o)return null;
+      why=c.program?`${c.program}. Skills that fit what you want in a co-founder.`:`${[c.title,c.company].filter(Boolean).join(", ")}.`;
+    } else { if(!c.cofounder)return null;
+      sc+=ov(me.skills,c.cofKw)*3+ov(ms,c.secs)+1;why=`${c.company} is looking for a co-founder: ${c.cofounder}.`; }
+  } else {
+    sc+=ov(ms,c.secs)*2;if(!sc)return null;why=[c.title,c.company].filter(Boolean).join(", ")+".";
+  }
+  if(rot.has(c.name)||(c.startup&&rot.has(c.startup)))return null;
+  return {sc,why};
+}
+function suggestions(){
+  const me=P[S.me];const rot=myRotation(me);const out=[];const used=new Set([me.name]);
+  const lists=S.goals.map(g=>P.filter(c=>c!==me&&S.fb[c.name]!==-1).map(c=>{const r=score(me,c,g,rot);return r&&{c,g,...r}}).filter(Boolean).sort((a,b)=>b.sc-a.sc));
+  let i=0;while(out.length<12&&lists.some(l=>l.length>i)){for(const l of lists){const x=l[i];if(x&&!used.has(x.c.name)){used.add(x.c.name);out.push(x)}}i++}
+  return out;
+}
+
+/* views */
+function go(v){S.view=v;document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b.dataset.v===v));render();window.scrollTo(0,0)}
+document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>go(b.dataset.v));
+function render(){
+  const me=P[S.me];$("hi").textContent=`Hi ${first(me.name)}`;
+  $("hisub").textContent=[me.role==="Hiring"?"Hiring table":me.role,me.company].filter(Boolean).join(" · ");
+  $("view").innerHTML=S.view==="you"?youView():S.view==="people"?peopleView():eventView();bind();
+}
+function nextCard(me){
+  if(me.schedule){const st=me.schedule[0];const s=byStartup[st];
+    return `<div class="card next"><div class="lbl">FIRST UP · 4:50 PM</div><div class="big">${st==="FLOAT"?"Free round":`${esc(st)} · Pod ${s?s.table:""}`}</div><div class="muted">Five rounds of 12 minutes. You move between pods.</div><button class="btn ghost" style="padding:8px 0" data-go="event">See all five rounds</button></div>`}
+  const s=me.startup&&byStartup[me.startup];
+  if(s&&s.table)return `<div class="card next"><div class="lbl">YOUR POD · FROM 4:50 PM</div><div class="big">Pod ${s.table}</div><div class="muted">Investors come to you for five rounds.${s.hiringTable?` At 6:00 you move to hiring table ${s.hiringTable}.`:""}</div><button class="btn ghost" style="padding:8px 0" data-go="event">See who you meet</button></div>`;
+  if(s&&s.hiringTable)return `<div class="card next"><div class="lbl">YOUR TABLE · FROM 5:45 PM</div><div class="big">Hiring table ${s.hiringTable}</div><div class="muted">Students come to you from 6:00 to 7:30.</div></div>`;
+  return `<div class="card next"><div class="lbl">YOUR EVENING</div><div class="big">Mixer from 6:00 PM</div><div class="muted">Hiring tables and the co-founder meetup run until 7:30.</div></div>`;
+}
+function youView(){
+  const me=P[S.me];const sug=suggestions().slice(0,S.shown);
+  return nextCard(me)+`<h2 style="display:flex;justify-content:space-between;align-items:baseline">People to meet <button class="btn ghost" style="padding:0;font-size:13px" data-act="goals">Change goals</button></h2>
+  <div class="muted" style="margin-top:-4px">For: ${S.goals.map(g=>GOALS[g].label.toLowerCase()).join(" and ")}</div>
+  ${sug.length?sug.map(x=>sugCard(x)).join(""):`<div class="card muted">No strong matches for these goals yet. Try a different goal.</div>`}
+  ${suggestions().length>S.shown?`<button class="btn ghost full" data-act="more">Show 3 more</button>`:""}
+  <button class="btn ghost full" data-act="switch" style="margin-top:8px">Not ${esc(first(me.name))}? Switch person</button>`;
+}
+function sugCard({c,why}){
+  const i=P.indexOf(c);const f=S.fb[c.name];
+  return `<div class="card sug"><div class="top" data-p="${i}"><span class="av">${esc(ini(c.name))}</span><div><div class="nm">${esc(c.name)}</div><div class="co"><span class="tag t-${c.role}">${c.role==="Hiring"?"Hiring":c.role}</span>${esc([c.title,c.company].filter(Boolean).join(", "))}</div></div></div>
+  <div class="why">${esc(why)}</div><div class="where">📍 ${esc(whereIs(c))}</div>
+  <div class="fb"><span class="q">Good match?</span><button data-fb="1" data-n="${esc(c.name)}" class="${f===1?"on":""}">👍</button><button data-fb="-1" data-n="${esc(c.name)}">👎</button></div></div>`;
+}
+function peopleView(){
+  const roles=["All","Investor","Founder","Student","Operator","Academia"];
+  const txt=p=>[p.name,p.role,p.company,p.title,p.program,p.interests,p.why,p.hiring,(p.secs||[]).map(s=>SECTOR_NAME[s]).join(" "),p.startup&&byStartup[p.startup]?byStartup[p.startup].blurb:""].join(" ").toLowerCase();
+  const list=P.filter(p=>p!==P[S.me]&&(S.role==="All"||p.role===S.role||(S.role==="Founder"&&p.role==="Hiring"))&&S.q.toLowerCase().split(/\s+/).filter(Boolean).every(t=>txt(p).includes(t))).sort((a,b)=>a.name.localeCompare(b.name));
+  return `<input class="input search" id="q" placeholder="Search: climate investor, robotics, Haas" value="${esc(S.q)}">
+  <div class="chips">${roles.map(r=>`<button class="chip ${S.role===r?"on":""}" data-role="${r}">${r==="All"?"Everyone":r+"s"}</button>`).join("")}</div>
+  <div class="count">${list.length} ${list.length===1?"person":"people"}</div>
+  ${list.map(p=>`<div class="card person" data-p="${P.indexOf(p)}"><span class="av">${esc(ini(p.name))}</span><div style="min-width:0"><div class="nm">${esc(p.name)}</div><div class="meta"><span class="tag t-${p.role}">${p.role}</span>${esc([p.title,p.company].filter(Boolean).join(", "))}</div></div></div>`).join("")}`;
+}
+function scheduleBlock(me){
+  if(me.schedule)return `<h2>Your five rounds</h2><div class="card tl">${me.schedule.map((st,i)=>{const s=byStartup[st];
+    return st==="FLOAT"?`<div class="slot"><div class="time">${ROUNDS[i]}</div><div class="what"><b>Free round</b><br><span class="muted">Check in at the AV desk and we will point you to a pod.</span></div></div>`
+    :`<div class="slot" data-st="${esc(st)}" style="cursor:pointer"><div class="time">${ROUNDS[i]}</div><div class="what"><b>Pod ${s?s.table:""} · ${esc(st)}</b><br><span class="muted">${esc(s?s.blurb:"")}</span></div></div>`}).join("")}</div>`;
+  const s=me.startup&&byStartup[me.startup];
+  if(s&&s.table)return `<h2>Your five rounds at Pod ${s.table}</h2><div class="card tl">${s.schedule.map((inv,i)=>`<div class="slot"><div class="time">${ROUNDS[i]}</div><div class="what">${inv.length?inv.map(x=>`<span data-p="${P.findIndex(q=>q.name===x.name)}" style="cursor:pointer"><b>${esc(x.name)}</b>, ${esc(x.firm)}</span>`).join("<br>"):`<span class="muted">Open round</span>`}</div></div>`).join("")}</div>`;
+  return "";
+}
+function mapBlock(me){
+  const myPods=new Set();const mine=me.startup&&byStartup[me.startup];
+  if(mine&&mine.table)myPods.add(mine.table);
+  if(me.schedule)me.schedule.forEach(st=>{const s=byStartup[st];if(s&&s.table)myPods.add(s.table)});
+  const byPod={};DATA.startups.forEach(s=>{if(s.table)byPod[s.table]=s});
+  const byH={};DATA.startups.forEach(s=>{if(s.hiringTable)byH[s.hiringTable]=s});
+  const z=n=>n<=11?"zA":n<=18?"zB":"zC";
+  const pod=n=>{const s=byPod[n];return `<div class="pod ${z(n)} ${s?"":"empty"} ${myPods.has(n)?"me":""}" ${s?`data-st="${esc(s.name)}"`:""} title="${s?esc(s.name):"Open"}">${n}</div>`};
+  const top=[1,3,5,7,9,11,13,15,17,19,21],bot=[2,4,6,8,10,12,14,16,18,20,22];
+  const h=k=>{const s=byH[k];return `<div class="hire" ${s?`data-st="${esc(s.name)}"`:""}>${k}</div>`};
+  return `<h2>Floor map</h2><div class="card"><div class="map"><div class="room">
+    <div class="lm"><span>Lounge</span><span>Food</span><span>Drinks</span><span>BGA</span><span>Gong</span><span style="margin-left:auto">AV desk</span></div>
+    <div class="pods">${top.map(pod).join("")}${h("H1")}${bot.map(pod).join("")}${h("H2")}<div style="grid-column:span 11"></div>${h("H3")}<div style="grid-column:span 11"></div>${h("H4")}</div>
+    <div class="hrow">${["H9","H8","H7","H6","H5"].map(h).join("")}</div>
+  </div><div class="doors"><span>↑ Entrance</span><span>Exit ↓</span></div></div>
+  <div class="legend"><span><i style="background:var(--a)"></i>Climate, pods 1 to 11</span><span><i style="background:var(--b)"></i>Physical AI, 12 to 18</span><span><i style="background:var(--c)"></i>Bio and neuro, 19 to 22</span><span><i style="background:var(--h)"></i>Hiring tables</span>${myPods.size?`<span><i style="background:var(--gold)"></i>Your pods</span>`:""}</div>
+  <div class="muted" style="margin-top:8px">Tap a pod or table to see who is there.</div></div>`;
+}
+function eventView(){
+  const me=P[S.me];
+  return `<h2>Today</h2><div class="card tl">
+   <div class="slot"><div class="time">4:30</div><div class="what"><b>Check in</b></div></div>
+   <div class="slot"><div class="time">4:35</div><div class="what"><b>Founder intros</b></div></div>
+   <div class="slot"><div class="time">4:50</div><div class="what"><b>Matchmaking in the pods</b><br><span class="muted">Five rounds of 12 minutes. The gong marks each switch.</span></div></div>
+   <div class="slot"><div class="time">6:00</div><div class="what"><b>Mixer, hiring tables and co-founder meetup</b><br><span class="muted">Until 7:30</span></div></div></div>
+  ${scheduleBlock(me)}${mapBlock(me)}
+  <details class="card"><summary style="font-weight:700;cursor:pointer">All startups in the pods (${DATA.startups.filter(s=>s.table).length})</summary>${DATA.startups.filter(s=>s.table).map(stCard).join("")}</details>
+  <details class="card"><summary style="font-weight:700;cursor:pointer">Hiring tables, 6:00 to 7:30 (${DATA.startups.filter(s=>s.hiringTable).length})</summary>${DATA.startups.filter(s=>s.hiringTable).sort((a,b)=>a.hiringTable.localeCompare(b.hiringTable)).map(s=>`<div class="card" data-st="${esc(s.name)}" style="cursor:pointer"><div class="st"><div class="head"><div class="name">${esc(s.name)}</div><div class="podtag"><small>TABLE</small>${s.hiringTable}</div></div><div class="hirebox">${esc(s.hiring)}</div></div></div>`).join("")}</details>`;
+}
+function stCard(s){return `<div class="card st" data-st="${esc(s.name)}" style="cursor:pointer"><div class="head"><div><div class="name">${esc(s.name)}</div><div class="muted" style="font-size:13px;margin-top:3px">${esc(s.founder)} · ${esc(s.stage)}</div></div>${s.table?`<div class="podtag"><small>POD</small>${s.table}</div>`:""}</div><div class="blurb">${esc(s.blurb)}</div>${s.hiring&&s.hiring!=="Roles to be shared"?`<div class="hirebox"><b>Hiring:</b> ${esc(s.hiring)}</div>`:""}</div>`}
+
+/* sheets */
+function openSheet(h){$("pane").innerHTML=`<button class="x" aria-label="Close">✕</button>`+h;$("sheet").classList.add("on");$("pane").querySelector(".x").onclick=closeSheet;bindIn($("pane"))}
+function closeSheet(){$("sheet").classList.remove("on")}
+$("sheet").onclick=e=>{if(e.target===$("sheet"))closeSheet()};
+function personSheet(i){
+  const p=P[i];const s=p.startup&&byStartup[p.startup];
+  openSheet(`<span class="av" style="width:56px;height:56px;font-size:20px">${esc(ini(p.name))}</span>
+   <div style="font-size:21px;font-weight:750;margin-top:10px">${esc(p.name)}</div>
+   <div class="muted" style="margin-top:4px"><span class="tag t-${p.role}">${p.role}</span>${esc([p.title,p.company].filter(Boolean).join(", "))}</div>
+   <div class="where">📍 ${esc(whereIs(p))}</div>
+   ${p.role==="Investor"?`<div class="kv"><b>Focus</b>${esc(p.secs.length===1?SECTOR_NAME[p.secs[0]]:"Deep tech broadly")}${p.stages.length?` · ${esc(p.stages.join(", "))} stage companies`:""}</div>${p.check?`<div class="kv"><b>Check size</b>${esc(p.check)}</div>`:""}${p.why?`<div class="kv"><b>Here to</b>${esc(p.why)}</div>`:""}`:""}
+   ${p.program?`<div class="kv"><b>Program</b>${esc(p.program)}</div><div class="kv"><b>Interests</b>${esc(p.interests)}</div>`:""}
+   ${p.cofounder?`<div class="kv"><b>Looking for a co-founder</b>${esc(p.cofounder)}</div>`:""}
+   ${s?stCard(s):""}`);
+}
+function startupSheet(n){
+  const s=byStartup[n];if(!s)return;const fi=P.findIndex(p=>p.startup===n);
+  openSheet(`<div style="margin-top:36px"></div>${stCard(s)}${s.web?`<a class="link" href="${esc(s.web)}" target="_blank" rel="noopener">${esc(s.web.replace(/https?:\/\/(www\.)?/,""))}</a>`:""}
+   ${fi>=0?`<div style="margin-top:12px"><button class="btn pri full" data-p="${fi}">View ${esc(first(s.founder))}'s profile</button></div>`:""}`);
+}
+
+/* binding */
+function bindIn(r){
+  r.querySelectorAll("[data-p]").forEach(e=>e.onclick=ev=>{ev.stopPropagation();const i=+e.dataset.p;if(i>=0)personSheet(i)});
+  r.querySelectorAll("[data-st]").forEach(e=>e.onclick=ev=>{ev.stopPropagation();startupSheet(e.dataset.st)});
+}
+function bind(){
+  const v=$("view");bindIn(v);
+  v.querySelectorAll("[data-go]").forEach(b=>b.onclick=()=>go(b.dataset.go));
+  v.querySelectorAll("[data-act=switch]").forEach(b=>b.onclick=()=>{S.me=null;store.set("me",null);$("who").value="";$("who-list").innerHTML="";show("s-who")});
+  v.querySelectorAll("[data-act=more]").forEach(b=>b.onclick=()=>{S.shown+=3;render()});
+  v.querySelectorAll("[data-act=goals]").forEach(b=>b.onclick=()=>{renderGoals();show("s-goals")});
+  v.querySelectorAll("[data-fb]").forEach(b=>b.onclick=()=>{const n=b.dataset.n,val=+b.dataset.fb;S.fb[n]=val;
+    store.set("fb",S.fb);send({type:"vote",who:P[S.me].name,role:P[S.me].role,match:n,vote:val===1?"up":"down",goals:S.goals.join(", ")});
+    toast(val===1?"Thanks. We will find more like this.":"Got it. We swapped in someone new.");render()});
+  v.querySelectorAll("[data-role]").forEach(b=>b.onclick=()=>{S.role=b.dataset.role;render()});
+  const q=$("q");if(q)q.oninput=()=>{S.q=q.value;const pos=q.selectionStart;render();const n=$("q");n.focus();n.setSelectionRange(pos,pos)};
+}
+
+/* sending votes and goal picks, with a retry queue */
+function send(ev){
+  ev.at=new Date().toISOString();
+  const q=store.get("queue")||[];q.push(ev);store.set("queue",q);flush();
+}
+let flushing=false;
+async function flush(){
+  if(flushing||!CONFIG.feedbackUrl)return;const q=store.get("queue")||[];if(!q.length)return;flushing=true;
+  try{await fetch(CONFIG.feedbackUrl,{method:"POST",mode:"no-cors",headers:{"Content-Type":"text/plain"},body:JSON.stringify(q)});store.set("queue",(store.get("queue")||[]).slice(q.length))}catch(e){}
+  flushing=false;
+}
+setInterval(flush,15000);window.addEventListener("online",flush);
+
+/* data loading, offline fallback and live refresh */
+async function loadData(){
+  const r=await fetch("data.json",{cache:"no-store"});if(!r.ok)throw new Error("data");return r.json();
+}
+function stamp(){const u=DATA.updated?new Date(DATA.updated):null;$("stamp").textContent=u?`Updated ${u.toLocaleTimeString([], {hour:"numeric",minute:"2-digit"})} on ${u.toLocaleDateString([], {month:"short",day:"numeric"})}`:""}
+function restore(){
+  const name=store.get("me");const i=name?P.findIndex(p=>p.name===name):-1;
+  if(!store.get("unlocked")){show("s-code");return}
+  if(i<0){show("s-who");return}
+  S.me=i;S.goals=store.get("goals")||defaultGoals(P[i]);S.fb=store.get("fb")||{};show("s-app");go(S.view||"you");
+}
+async function boot(){
+  try{setData(await loadData());store.set("cache",DATA)}catch(e){const c=store.get("cache");if(c)setData(c)}
+  stamp();restore();
+  setInterval(async()=>{try{const d=await loadData();if(d.version!==DATA.version){const name=S.me!=null?P[S.me].name:null;setData(d);store.set("cache",d);stamp();
+    if(name){const i=P.findIndex(p=>p.name===name);if(i>=0){S.me=i;if(!$("s-app").classList.contains("hidden"))render();toast("Schedule updated")}}}}catch(e){}},(CONFIG.refreshSeconds||120)*1000);
+}
+if("serviceWorker" in navigator&&location.protocol.startsWith("http"))navigator.serviceWorker.register("sw.js");
+boot();
+</script>
+</body>
+</html>
